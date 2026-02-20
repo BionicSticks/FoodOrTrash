@@ -1,0 +1,272 @@
+[
+  {
+    "name": "canola oil",
+    "category": "seed oil",
+    "aliases": ["canola oils", "rapeseed oil", "rapeseed"],
+    "reason": "Industrially processed seed oil extracted with chemical solvents. Didn't exist before the 1970s."
+  },
+  {
+    "name": "soybean oil",
+    "category": "seed oil",
+    "aliases": ["soybean oils", "soy oil", "soya oil", "vegetable oil"],
+    "reason": "The most consumed oil in America — and also the most heavily processed. Extracted with hexane."
+  },
+  {
+    "name": "corn oil",
+    "category": "seed oil",
+    "aliases": ["corn oils", "maize oil"],
+    "reason": "Requires heavy industrial processing to extract oil from corn kernels. Your ancestors never ate this."
+  },
+  {
+    "name": "sunflower oil",
+    "category": "seed oil",
+    "aliases": ["sunflower oils", "sunflower seed oil", "high oleic sunflower oil"],
+    "reason": "Industrially extracted seed oil high in omega-6 linoleic acid."
+  },
+  {
+    "name": "safflower oil",
+    "category": "seed oil",
+    "aliases": ["safflower oils"],
+    "reason": "Another industrial seed oil. Safflower was traditionally used as a dye, not a food."
+  },
+  {
+    "name": "cottonseed oil",
+    "category": "seed oil",
+    "aliases": ["cottonseed oils", "cotton seed oil"],
+    "reason": "Oil from a plant grown for textiles, not nutrition. Originally classified as industrial waste."
+  },
+  {
+    "name": "grapeseed oil",
+    "category": "seed oil",
+    "aliases": ["grapeseed oils", "grape seed oil"],
+    "reason": "A byproduct of winemaking, marketed as healthy but extracted with chemical solvents."
+  },
+  {
+    "name": "rice bran oil",
+    "category": "seed oil",
+    "aliases": ["rice bran oils"],
+    "reason": "Heavily processed oil extracted from the bran layer of rice. Not a traditional fat source."
+  },
+  {
+    "name": "soy lecithin",
+    "category": "seed oil derivative",
+    "aliases": ["soya lecithin", "lecithin"],
+    "reason": "Industrial byproduct of soybean oil processing. Found in almost every processed food."
+  },
+  {
+    "name": "margarine",
+    "category": "seed oil product",
+    "aliases": ["margarines", "oleo", "plant butter", "vegan butter", "country crock", "i cant believe its not butter"],
+    "reason": "Solidified seed oils. Originally invented as a cheap substitute for butter using industrial chemistry."
+  },
+  {
+    "name": "shortening",
+    "category": "seed oil product",
+    "aliases": ["shortenings", "crisco", "vegetable shortening"],
+    "reason": "Hydrogenated seed oils. Crisco was originally made from cottonseed oil for candle-making."
+  },
+  {
+    "name": "cool whip",
+    "category": "ultra-processed",
+    "aliases": ["cool whips", "whipped topping"],
+    "reason": "Contains no cream. It's hydrogenated seed oils, corn syrup, and chemicals shaped like whipped cream."
+  },
+  {
+    "name": "cheez whiz",
+    "category": "ultra-processed",
+    "aliases": ["cheese whiz", "cheez wiz", "spray cheese", "cheese in a can"],
+    "reason": "Contains very little actual cheese. Mostly seed oils, modified food starch, and artificial colors."
+  },
+  {
+    "name": "doritos",
+    "category": "ultra-processed",
+    "aliases": ["dorito", "cool ranch doritos", "nacho cheese doritos"],
+    "reason": "Corn, seed oils, and dozens of engineered flavor chemicals designed to override your satiety signals."
+  },
+  {
+    "name": "pop tarts",
+    "category": "ultra-processed",
+    "aliases": ["pop tart", "poptarts", "poptart", "toaster pastry", "toaster pastries"],
+    "reason": "Refined flour, seed oils, and high-fructose corn syrup baked into a candy bar disguised as breakfast."
+  },
+  {
+    "name": "hot pockets",
+    "category": "ultra-processed",
+    "aliases": ["hot pocket", "hotpocket", "hotpockets"],
+    "reason": "Over 40 ingredients including multiple seed oils and preservatives. Not food your body recognizes."
+  },
+  {
+    "name": "kraft singles",
+    "category": "ultra-processed",
+    "aliases": ["kraft single", "american cheese", "processed cheese", "american singles", "cheese singles", "velveeta"],
+    "reason": "Legally cannot be called 'cheese' — it's a 'pasteurized prepared cheese product' made with seed oils."
+  },
+  {
+    "name": "instant ramen",
+    "category": "ultra-processed",
+    "aliases": ["instant noodles", "cup noodles", "cup o noodles", "cup noodle", "ramen noodles", "maruchan", "top ramen"],
+    "reason": "Noodles deep-fried in palm or seed oil, with a flavor packet full of MSG and artificial flavors."
+  },
+  {
+    "name": "mountain dew",
+    "category": "ultra-processed",
+    "aliases": ["mt dew", "mtn dew"],
+    "reason": "46 grams of high-fructose corn syrup, brominated vegetable oil, and Yellow 5. Not food."
+  },
+  {
+    "name": "gatorade",
+    "category": "ultra-processed",
+    "aliases": ["gatorades", "sports drink", "sports drinks", "powerade"],
+    "reason": "Sugar water with artificial dyes marketed as athletic fuel. You're not a professional athlete."
+  },
+  {
+    "name": "coca cola",
+    "category": "ultra-processed",
+    "aliases": ["coca-cola", "coke", "pepsi", "dr pepper", "sprite", "fanta", "soda", "soft drink", "diet coke", "diet soda"],
+    "reason": "Liquid sugar (or artificial sweeteners). 39 grams of high-fructose corn syrup per can."
+  },
+  {
+    "name": "lucky charms",
+    "category": "ultra-processed",
+    "aliases": ["lucky charm", "froot loops", "fruit loops", "frosted flakes", "cocoa puffs", "cap'n crunch"],
+    "reason": "Refined grains, sugar, seed oils, and artificial dyes shaped into fun shapes. Candy in a cereal box."
+  },
+  {
+    "name": "chicken nuggets",
+    "category": "ultra-processed",
+    "aliases": ["chicken nugget", "mcnuggets", "dino nuggets", "dinosaur nuggets"],
+    "reason": "Mechanically separated chicken, bread crumbs, seed oils, and over 30 other ingredients. Not chicken."
+  },
+  {
+    "name": "hot dog",
+    "category": "ultra-processed",
+    "aliases": ["hot dogs", "hotdog", "hotdogs", "frankfurter", "frankfurters", "wiener", "wieners"],
+    "reason": "Mechanically separated meat, corn syrup, sodium nitrite, and artificial flavors in a tube shape."
+  },
+  {
+    "name": "protein bar",
+    "category": "ultra-processed",
+    "aliases": ["protein bars", "quest bar", "clif bar", "kind bar", "rxbar", "energy bar", "energy bars", "granola bar", "granola bars"],
+    "reason": "Most are candy bars with added protein powder. Check the ingredients — seed oils and sweeteners galore."
+  },
+  {
+    "name": "ranch dressing",
+    "category": "seed oil product",
+    "aliases": ["ranch", "ranch dressings", "hidden valley"],
+    "reason": "Primarily soybean oil with buttermilk powder, MSG, and artificial flavors. America's favorite seed oil delivery system."
+  },
+  {
+    "name": "miracle whip",
+    "category": "seed oil product",
+    "aliases": ["miracle whips", "light mayo", "fat free mayo"],
+    "reason": "Soybean oil, corn syrup, and modified food starch. Can't legally be called mayonnaise."
+  },
+  {
+    "name": "french fries",
+    "category": "seed oil product",
+    "aliases": ["french fry", "fries", "mcdonalds fries", "fast food fries"],
+    "reason": "Potatoes are food. Potatoes deep-fried in seed oil with added 'natural beef flavor'? That's trash."
+  },
+  {
+    "name": "twinkies",
+    "category": "ultra-processed",
+    "aliases": ["twinkie", "ho hos", "ding dongs", "little debbie", "zebra cakes"],
+    "reason": "37 ingredients including multiple seed oils. The cream filling contains no cream."
+  },
+  {
+    "name": "artificial sweetener",
+    "category": "ultra-processed",
+    "aliases": ["artificial sweeteners", "aspartame", "sucralose", "splenda", "equal", "sweet n low", "saccharin", "ace-k", "acesulfame potassium"],
+    "reason": "Synthetic chemicals that trick your brain into thinking you're eating sugar. Your body isn't fooled."
+  },
+  {
+    "name": "high fructose corn syrup",
+    "category": "ultra-processed",
+    "aliases": ["hfcs", "corn syrup", "high-fructose corn syrup", "glucose-fructose syrup"],
+    "reason": "Industrially produced sweetener that didn't exist before the 1960s. Found in 75% of packaged foods."
+  },
+  {
+    "name": "msg",
+    "category": "ultra-processed",
+    "aliases": ["monosodium glutamate", "flavor enhancer"],
+    "reason": "Industrially produced glutamate used to make ultra-processed food taste more appealing than it is."
+  },
+  {
+    "name": "trans fat",
+    "category": "seed oil product",
+    "aliases": ["trans fats", "partially hydrogenated oil", "partially hydrogenated", "hydrogenated oil", "hydrogenated vegetable oil"],
+    "reason": "Artificially created by pumping hydrogen gas into seed oils. So dangerous even the FDA banned them."
+  },
+  {
+    "name": "whey protein isolate",
+    "category": "ultra-processed",
+    "aliases": ["whey protein", "whey isolate", "protein powder", "protein shake", "mass gainer"],
+    "reason": "Industrially isolated dairy byproduct. Real food doesn't come in a tub with a scoop."
+  },
+  {
+    "name": "impossible burger",
+    "category": "ultra-processed",
+    "aliases": ["impossible meat", "beyond burger", "beyond meat", "fake meat", "plant based meat", "lab grown meat"],
+    "reason": "Soy protein, seed oils, and methylcellulose engineered to bleed like meat. 21 ingredients to imitate one."
+  },
+  {
+    "name": "nutella",
+    "category": "ultra-processed",
+    "aliases": ["nutellas"],
+    "reason": "First ingredient: sugar. Second: palm oil. It's 58% sugar and only 13% hazelnut."
+  },
+  {
+    "name": "oreos",
+    "category": "ultra-processed",
+    "aliases": ["oreo", "oreo cookies"],
+    "reason": "Sugar, unbleached enriched flour, and palm/canola oil. The 'creme' contains no cream."
+  },
+  {
+    "name": "ritz crackers",
+    "category": "ultra-processed",
+    "aliases": ["ritz cracker", "ritz", "saltines", "cheez-it", "cheez-its", "goldfish crackers"],
+    "reason": "Refined flour, soybean oil, and high fructose corn syrup. Crackers didn't used to need 15 ingredients."
+  },
+  {
+    "name": "coffee creamer",
+    "category": "seed oil product",
+    "aliases": ["coffee creamers", "coffee mate", "non dairy creamer", "international delight"],
+    "reason": "Contains no cream. It's water, sugar, and partially hydrogenated soybean oil."
+  },
+  {
+    "name": "slim jim",
+    "category": "ultra-processed",
+    "aliases": ["slim jims", "meat stick", "meat sticks", "beef stick"],
+    "reason": "Mechanically separated chicken, corn syrup, soy protein, and sodium nitrite shaped like a stick."
+  },
+  {
+    "name": "candy",
+    "category": "ultra-processed",
+    "aliases": ["candies", "gummy bears", "skittles", "m&ms", "snickers", "twix", "milky way", "reeses", "jolly rancher", "starburst", "sour patch kids"],
+    "reason": "Pure sugar, artificial colors, and flavors. Your great-grandmother wouldn't recognize this as food."
+  },
+  {
+    "name": "frozen pizza",
+    "category": "ultra-processed",
+    "aliases": ["frozen pizzas", "digiorno", "totinos", "pizza rolls", "bagel bites"],
+    "reason": "Refined flour crust made with seed oils, topped with processed cheese and preservatives."
+  },
+  {
+    "name": "breakfast cereal",
+    "category": "ultra-processed",
+    "aliases": ["cereal", "cereals", "cheerios", "special k", "corn flakes"],
+    "reason": "Grains stripped of nutrients, extruded at high heat, then 'fortified' with synthetic vitamins."
+  },
+  {
+    "name": "plant milk",
+    "category": "ultra-processed",
+    "aliases": ["oat milk", "almond milk", "soy milk", "rice milk", "oatly"],
+    "reason": "Mostly water, seed oils, gums, and emulsifiers with a small amount of the named plant. Not milk."
+  },
+  {
+    "name": "mayonnaise",
+    "category": "seed oil product",
+    "aliases": ["mayo", "hellmanns", "best foods", "duke's mayo"],
+    "reason": "Modern mayo is almost entirely soybean oil. Traditional mayo was made with olive oil or egg yolks and lemon."
+  }
+]

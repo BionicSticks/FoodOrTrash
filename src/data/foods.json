@@ -1,0 +1,4940 @@
+[
+  {
+    "name": "apple",
+    "category": "fruit",
+    "aliases": [
+      "apples",
+      "green apple",
+      "red apple",
+      "granny smith",
+      "fuji",
+      "gala",
+      "honeycrisp",
+      "pink lady",
+      "braeburn",
+      "mcintosh"
+    ],
+    "fun_fact": "Apples float in water because they're 25% air."
+  },
+  {
+    "name": "banana",
+    "category": "fruit",
+    "aliases": [
+      "bananas",
+      "plantain",
+      "plantains"
+    ],
+    "fun_fact": "Bananas are berries, but strawberries aren't."
+  },
+  {
+    "name": "orange",
+    "category": "fruit",
+    "aliases": [
+      "oranges",
+      "navel orange",
+      "blood orange",
+      "valencia orange",
+      "cara cara"
+    ],
+    "fun_fact": "The color orange was named after the fruit, not the other way around."
+  },
+  {
+    "name": "strawberry",
+    "category": "fruit",
+    "aliases": [
+      "strawberries",
+      "strawberrys"
+    ],
+    "fun_fact": "Strawberries have their seeds on the outside — about 200 per berry."
+  },
+  {
+    "name": "blueberry",
+    "category": "fruit",
+    "aliases": [
+      "blueberries",
+      "blueberrys"
+    ],
+    "fun_fact": "Blueberries are one of the only naturally blue foods."
+  },
+  {
+    "name": "raspberry",
+    "category": "fruit",
+    "aliases": [
+      "raspberries",
+      "raspberrys"
+    ],
+    "fun_fact": "A single raspberry is made up of about 100 tiny individual fruits called drupelets."
+  },
+  {
+    "name": "blackberry",
+    "category": "fruit",
+    "aliases": [
+      "blackberries",
+      "blackberrys"
+    ],
+    "fun_fact": "Blackberries are technically not berries — they're aggregate fruits."
+  },
+  {
+    "name": "grape",
+    "category": "fruit",
+    "aliases": [
+      "grapes",
+      "green grapes",
+      "red grapes",
+      "concord grape",
+      "table grapes"
+    ],
+    "fun_fact": "It takes about 2.5 pounds of grapes to make one bottle of wine."
+  },
+  {
+    "name": "watermelon",
+    "category": "fruit",
+    "aliases": [
+      "watermelons",
+      "water melon"
+    ],
+    "fun_fact": "Watermelon is 92% water and is related to cucumbers and pumpkins."
+  },
+  {
+    "name": "cantaloupe",
+    "category": "fruit",
+    "aliases": [
+      "cantaloupes",
+      "rockmelon",
+      "rock melon",
+      "muskmelon"
+    ],
+    "fun_fact": "Cantaloupe is named after the Italian town of Cantalupo."
+  },
+  {
+    "name": "honeydew",
+    "category": "fruit",
+    "aliases": [
+      "honeydews",
+      "honeydew melon",
+      "honey dew"
+    ],
+    "fun_fact": "Honeydew melons are in the same family as cucumbers and squash."
+  },
+  {
+    "name": "pineapple",
+    "category": "fruit",
+    "aliases": [
+      "pineapples",
+      "ananas"
+    ],
+    "fun_fact": "A pineapple takes about two years to grow from planting to harvest."
+  },
+  {
+    "name": "mango",
+    "category": "fruit",
+    "aliases": [
+      "mangos",
+      "mangoes",
+      "mangoe"
+    ],
+    "fun_fact": "Mangoes are the most consumed fruit in the world."
+  },
+  {
+    "name": "papaya",
+    "category": "fruit",
+    "aliases": [
+      "papayas",
+      "pawpaw",
+      "paw paw"
+    ],
+    "fun_fact": "Papaya contains an enzyme called papain that can tenderize meat."
+  },
+  {
+    "name": "kiwi",
+    "category": "fruit",
+    "aliases": [
+      "kiwis",
+      "kiwifruit",
+      "kiwi fruit",
+      "chinese gooseberry"
+    ],
+    "fun_fact": "Kiwis have more vitamin C per ounce than oranges."
+  },
+  {
+    "name": "peach",
+    "category": "fruit",
+    "aliases": [
+      "peaches",
+      "nectarine",
+      "nectarines"
+    ],
+    "fun_fact": "Peaches and nectarines are genetically almost identical — just one gene controls the fuzz."
+  },
+  {
+    "name": "plum",
+    "category": "fruit",
+    "aliases": [
+      "plums",
+      "prune",
+      "prunes"
+    ],
+    "fun_fact": "Dried plums (prunes) were rebranded because the name 'prune' had an image problem."
+  },
+  {
+    "name": "cherry",
+    "category": "fruit",
+    "aliases": [
+      "cherries",
+      "cherrys",
+      "bing cherry",
+      "rainier cherry",
+      "maraschino cherry",
+      "sour cherry"
+    ],
+    "fun_fact": "It takes about 250 cherries to make a cherry pie."
+  },
+  {
+    "name": "apricot",
+    "category": "fruit",
+    "aliases": [
+      "apricots"
+    ],
+    "fun_fact": "Apricots were first cultivated in China over 4,000 years ago."
+  },
+  {
+    "name": "pear",
+    "category": "fruit",
+    "aliases": [
+      "pears",
+      "bartlett pear",
+      "bosc pear",
+      "anjou pear"
+    ],
+    "fun_fact": "Pears ripen from the inside out, which is why they often feel soft near the core first."
+  },
+  {
+    "name": "lemon",
+    "category": "fruit",
+    "aliases": [
+      "lemons"
+    ],
+    "fun_fact": "Lemons contain more sugar than strawberries."
+  },
+  {
+    "name": "lime",
+    "category": "fruit",
+    "aliases": [
+      "limes",
+      "key lime",
+      "persian lime"
+    ],
+    "fun_fact": "British sailors earned the nickname 'limeys' because they ate limes to prevent scurvy."
+  },
+  {
+    "name": "grapefruit",
+    "category": "fruit",
+    "aliases": [
+      "grapefruits",
+      "grape fruit"
+    ],
+    "fun_fact": "Grapefruit can interact with over 85 medications."
+  },
+  {
+    "name": "tangerine",
+    "category": "fruit",
+    "aliases": [
+      "tangerines",
+      "mandarin",
+      "mandarins",
+      "clementine",
+      "clementines",
+      "satsuma",
+      "satsumas"
+    ],
+    "fun_fact": "Tangerines are named after Tangier, Morocco, where they were first shipped to Europe."
+  },
+  {
+    "name": "pomegranate",
+    "category": "fruit",
+    "aliases": [
+      "pomegranates",
+      "pommegranate"
+    ],
+    "fun_fact": "A single pomegranate can contain over 600 seeds."
+  },
+  {
+    "name": "coconut",
+    "category": "fruit",
+    "aliases": [
+      "coconuts",
+      "cocoanut"
+    ],
+    "fun_fact": "Coconut water can be used as a substitute for blood plasma in emergencies."
+  },
+  {
+    "name": "avocado",
+    "category": "fruit",
+    "aliases": [
+      "avocados",
+      "avacado",
+      "avacados",
+      "guacamole"
+    ],
+    "fun_fact": "Avocados are technically berries, and they don't ripen on the tree."
+  },
+  {
+    "name": "fig",
+    "category": "fruit",
+    "aliases": [
+      "figs"
+    ],
+    "fun_fact": "Figs are technically inverted flowers, not fruits."
+  },
+  {
+    "name": "date",
+    "category": "fruit",
+    "aliases": [
+      "dates",
+      "medjool date",
+      "medjool dates",
+      "deglet noor"
+    ],
+    "fun_fact": "Date palms can produce fruit for over 100 years."
+  },
+  {
+    "name": "guava",
+    "category": "fruit",
+    "aliases": [
+      "guavas"
+    ],
+    "fun_fact": "Guava has four times the vitamin C of an orange."
+  },
+  {
+    "name": "passion fruit",
+    "category": "fruit",
+    "aliases": [
+      "passion fruits",
+      "passionfruit",
+      "maracuja"
+    ],
+    "fun_fact": "Passion fruit is named after the Passion of Christ, not romantic passion."
+  },
+  {
+    "name": "lychee",
+    "category": "fruit",
+    "aliases": [
+      "lychees",
+      "litchi",
+      "lichee"
+    ],
+    "fun_fact": "Lychee has been cultivated in China for over 2,000 years."
+  },
+  {
+    "name": "dragon fruit",
+    "category": "fruit",
+    "aliases": [
+      "dragon fruits",
+      "dragonfruit",
+      "pitaya",
+      "pitahaya"
+    ],
+    "fun_fact": "Dragon fruit comes from a cactus that only blooms at night."
+  },
+  {
+    "name": "starfruit",
+    "category": "fruit",
+    "aliases": [
+      "starfruits",
+      "star fruit",
+      "carambola"
+    ],
+    "fun_fact": "Starfruit is one of the few fruits that's star-shaped when sliced."
+  },
+  {
+    "name": "persimmon",
+    "category": "fruit",
+    "aliases": [
+      "persimmons"
+    ],
+    "fun_fact": "Unripe persimmons contain so much tannin they can make your mouth feel numb."
+  },
+  {
+    "name": "kumquat",
+    "category": "fruit",
+    "aliases": [
+      "kumquats"
+    ],
+    "fun_fact": "Kumquats are the only citrus fruit you eat whole — skin and all."
+  },
+  {
+    "name": "jackfruit",
+    "category": "fruit",
+    "aliases": [
+      "jackfruits",
+      "jack fruit"
+    ],
+    "fun_fact": "Jackfruit is the largest tree-borne fruit in the world, weighing up to 80 pounds."
+  },
+  {
+    "name": "durian",
+    "category": "fruit",
+    "aliases": [
+      "durians"
+    ],
+    "fun_fact": "Durian is banned on public transport in several Asian countries due to its smell."
+  },
+  {
+    "name": "mangosteen",
+    "category": "fruit",
+    "aliases": [
+      "mangosteens"
+    ],
+    "fun_fact": "Mangosteen was once banned from import to the US because of fruit fly concerns."
+  },
+  {
+    "name": "rambutan",
+    "category": "fruit",
+    "aliases": [
+      "rambutans"
+    ],
+    "fun_fact": "Rambutan means 'hairy' in Malay, referring to its spiky exterior."
+  },
+  {
+    "name": "cranberry",
+    "category": "fruit",
+    "aliases": [
+      "cranberries",
+      "cranberrys"
+    ],
+    "fun_fact": "Cranberries bounce when they're ripe — farmers use this to test quality."
+  },
+  {
+    "name": "boysenberry",
+    "category": "fruit",
+    "aliases": [
+      "boysenberries"
+    ],
+    "fun_fact": "Boysenberries are a cross between raspberries, blackberries, and loganberries."
+  },
+  {
+    "name": "gooseberry",
+    "category": "fruit",
+    "aliases": [
+      "gooseberries"
+    ],
+    "fun_fact": "Gooseberries were once banned in the US because they spread a disease that killed pine trees."
+  },
+  {
+    "name": "elderberry",
+    "category": "fruit",
+    "aliases": [
+      "elderberries"
+    ],
+    "fun_fact": "Raw elderberries are actually toxic — they must be cooked before eating."
+  },
+  {
+    "name": "mulberry",
+    "category": "fruit",
+    "aliases": [
+      "mulberries"
+    ],
+    "fun_fact": "Silkworms eat only mulberry leaves."
+  },
+  {
+    "name": "currant",
+    "category": "fruit",
+    "aliases": [
+      "currants",
+      "blackcurrant",
+      "blackcurrants",
+      "redcurrant",
+      "redcurrants"
+    ],
+    "fun_fact": "Blackcurrants were banned in the US for nearly 100 years to protect pine trees."
+  },
+  {
+    "name": "quince",
+    "category": "fruit",
+    "aliases": [
+      "quinces"
+    ],
+    "fun_fact": "Some historians believe the forbidden fruit in the Garden of Eden was a quince, not an apple."
+  },
+  {
+    "name": "tamarind",
+    "category": "fruit",
+    "aliases": [
+      "tamarinds"
+    ],
+    "fun_fact": "Tamarind is a key ingredient in Worcestershire sauce."
+  },
+  {
+    "name": "breadfruit",
+    "category": "fruit",
+    "aliases": [
+      "breadfruits",
+      "bread fruit"
+    ],
+    "fun_fact": "When cooked, breadfruit has a texture and taste similar to freshly baked bread."
+  },
+  {
+    "name": "soursop",
+    "category": "fruit",
+    "aliases": [
+      "soursops",
+      "graviola"
+    ],
+    "fun_fact": "Soursop can weigh up to 15 pounds and has a flavor like strawberry-pineapple."
+  },
+  {
+    "name": "loquat",
+    "category": "fruit",
+    "aliases": [
+      "loquats"
+    ],
+    "fun_fact": "Loquats are one of the few fruit trees that bloom in autumn and ripen in early spring."
+  },
+  {
+    "name": "plantain",
+    "category": "fruit",
+    "aliases": [
+      "plantains"
+    ],
+    "fun_fact": "Plantains must be cooked before eating — they're starchier and less sweet than bananas."
+  },
+  {
+    "name": "cacao",
+    "category": "fruit",
+    "aliases": [
+      "cocoa",
+      "cacao bean",
+      "cocoa bean",
+      "cacao beans"
+    ],
+    "fun_fact": "It takes about 400 cacao beans to make one pound of chocolate."
+  },
+  {
+    "name": "acai",
+    "category": "fruit",
+    "aliases": [
+      "acai berry",
+      "acai berries",
+      "açaí"
+    ],
+    "fun_fact": "Acai berries lose most of their antioxidant power within 24 hours of being picked."
+  },
+  {
+    "name": "goji berry",
+    "category": "fruit",
+    "aliases": [
+      "goji berries",
+      "wolfberry",
+      "wolfberries"
+    ],
+    "fun_fact": "Goji berries have been used in traditional Chinese medicine for over 2,000 years."
+  },
+  {
+    "name": "yuzu",
+    "category": "fruit",
+    "aliases": [
+      "yuzus"
+    ],
+    "fun_fact": "Yuzu is so prized in Japan that a single fruit can cost several dollars."
+  },
+  {
+    "name": "ugli fruit",
+    "category": "fruit",
+    "aliases": [
+      "ugli fruits",
+      "ugly fruit"
+    ],
+    "fun_fact": "Ugli fruit is a cross between a grapefruit, an orange, and a tangerine."
+  },
+  {
+    "name": "crabapple",
+    "category": "fruit",
+    "aliases": [
+      "crabapples",
+      "crab apple",
+      "crab apples"
+    ],
+    "fun_fact": "All domestic apples are descended from wild crabapples."
+  },
+  {
+    "name": "damson",
+    "category": "fruit",
+    "aliases": [
+      "damsons",
+      "damson plum"
+    ],
+    "fun_fact": "Damsons have been grown in Britain since Roman times."
+  },
+  {
+    "name": "feijoa",
+    "category": "fruit",
+    "aliases": [
+      "feijoas",
+      "pineapple guava"
+    ],
+    "fun_fact": "Feijoa petals are edible and taste like cotton candy."
+  },
+  {
+    "name": "miracle fruit",
+    "category": "fruit",
+    "aliases": [
+      "miracle fruits",
+      "miracle berry"
+    ],
+    "fun_fact": "Miracle fruit makes sour foods taste sweet for up to an hour after eating it."
+  },
+  {
+    "name": "noni",
+    "category": "fruit",
+    "aliases": [
+      "nonis",
+      "noni fruit"
+    ],
+    "fun_fact": "Noni fruit smells so bad it's sometimes called 'vomit fruit.'"
+  },
+  {
+    "name": "rhubarb",
+    "category": "fruit",
+    "aliases": [
+      "rhubarbs"
+    ],
+    "fun_fact": "Rhubarb leaves are poisonous, but the stalks are perfectly safe to eat."
+  },
+  {
+    "name": "salak",
+    "category": "fruit",
+    "aliases": [
+      "salaks",
+      "snake fruit"
+    ],
+    "fun_fact": "Salak is called 'snake fruit' because its skin looks like snake scales."
+  },
+  {
+    "name": "sapodilla",
+    "category": "fruit",
+    "aliases": [
+      "sapodillas",
+      "chikoo",
+      "chiku"
+    ],
+    "fun_fact": "Sapodilla tree sap was the original base for chewing gum."
+  },
+  {
+    "name": "ackee",
+    "category": "fruit",
+    "aliases": [
+      "ackees"
+    ],
+    "fun_fact": "Ackee is the national fruit of Jamaica but is toxic if eaten before it's fully ripe."
+  },
+  {
+    "name": "cherimoya",
+    "category": "fruit",
+    "aliases": [
+      "cherimoyas",
+      "custard apple",
+      "custard apples"
+    ],
+    "fun_fact": "Mark Twain called cherimoya 'the most delicious fruit known to men.'"
+  },
+  {
+    "name": "horned melon",
+    "category": "fruit",
+    "aliases": [
+      "horned melons",
+      "kiwano",
+      "kiwanos"
+    ],
+    "fun_fact": "Horned melon tastes like a combination of banana, cucumber, and lime."
+  },
+  {
+    "name": "jabuticaba",
+    "category": "fruit",
+    "aliases": [
+      "jabuticabas"
+    ],
+    "fun_fact": "Jabuticaba fruits grow directly on the trunk of the tree, not on branches."
+  },
+  {
+    "name": "longan",
+    "category": "fruit",
+    "aliases": [
+      "longans",
+      "dragon eye"
+    ],
+    "fun_fact": "Longan means 'dragon eye' in Chinese because the fruit resembles an eyeball when peeled."
+  },
+  {
+    "name": "physalis",
+    "category": "fruit",
+    "aliases": [
+      "ground cherry",
+      "ground cherries",
+      "cape gooseberry",
+      "cape gooseberries"
+    ],
+    "fun_fact": "Physalis fruits come wrapped in their own papery lantern-like husk."
+  },
+  {
+    "name": "carrot",
+    "category": "vegetable",
+    "aliases": [
+      "carrots",
+      "carrott"
+    ],
+    "fun_fact": "Carrots were originally purple — orange carrots were bred in the Netherlands in the 17th century."
+  },
+  {
+    "name": "broccoli",
+    "category": "vegetable",
+    "aliases": [
+      "brocolli",
+      "brocoli",
+      "broccolis"
+    ],
+    "fun_fact": "Broccoli is a human-engineered plant bred from wild cabbage."
+  },
+  {
+    "name": "cauliflower",
+    "category": "vegetable",
+    "aliases": [
+      "cauliflowers",
+      "cauliflour"
+    ],
+    "fun_fact": "Cauliflower comes in purple, green, and orange varieties, not just white."
+  },
+  {
+    "name": "spinach",
+    "category": "vegetable",
+    "aliases": [
+      "spinachs"
+    ],
+    "fun_fact": "Spinach loses about 90% of its nutrients within 24 hours of being picked."
+  },
+  {
+    "name": "kale",
+    "category": "vegetable",
+    "aliases": [
+      "kales",
+      "curly kale"
+    ],
+    "fun_fact": "Kale was one of the most common green vegetables in Europe until the Middle Ages."
+  },
+  {
+    "name": "lettuce",
+    "category": "vegetable",
+    "aliases": [
+      "lettuces",
+      "romaine",
+      "iceberg lettuce",
+      "butterhead",
+      "arugula",
+      "rocket"
+    ],
+    "fun_fact": "Lettuce is a member of the sunflower family."
+  },
+  {
+    "name": "tomato",
+    "category": "vegetable",
+    "aliases": [
+      "tomatoes",
+      "tomatoe",
+      "cherry tomato",
+      "cherry tomatoes",
+      "grape tomato",
+      "heirloom tomato"
+    ],
+    "fun_fact": "Tomatoes were once considered poisonous in Europe and called 'poison apples.'"
+  },
+  {
+    "name": "potato",
+    "category": "vegetable",
+    "aliases": [
+      "potatoes",
+      "potatoe",
+      "spud",
+      "spuds",
+      "tater",
+      "taters"
+    ],
+    "fun_fact": "The potato was the first vegetable to be grown in space."
+  },
+  {
+    "name": "sweet potato",
+    "category": "vegetable",
+    "aliases": [
+      "sweet potatoes",
+      "sweetpotato",
+      "yam",
+      "yams"
+    ],
+    "fun_fact": "Sweet potatoes are not related to regular potatoes — they're in the morning glory family."
+  },
+  {
+    "name": "onion",
+    "category": "vegetable",
+    "aliases": [
+      "onions",
+      "red onion",
+      "white onion",
+      "yellow onion",
+      "sweet onion",
+      "vidalia"
+    ],
+    "fun_fact": "Onions make you cry because they release a sulfur-based gas when cut."
+  },
+  {
+    "name": "garlic",
+    "category": "vegetable",
+    "aliases": [
+      "garlics",
+      "garlic clove",
+      "garlic cloves"
+    ],
+    "fun_fact": "There's a garlic festival in Gilroy, California that attracts over 100,000 people annually."
+  },
+  {
+    "name": "bell pepper",
+    "category": "vegetable",
+    "aliases": [
+      "bell peppers",
+      "capsicum",
+      "sweet pepper",
+      "sweet peppers",
+      "red pepper",
+      "green pepper",
+      "yellow pepper"
+    ],
+    "fun_fact": "Green, yellow, and red bell peppers are actually the same vegetable at different stages of ripeness."
+  },
+  {
+    "name": "cucumber",
+    "category": "vegetable",
+    "aliases": [
+      "cucumbers"
+    ],
+    "fun_fact": "Cucumbers are 96% water, making them one of the most hydrating foods."
+  },
+  {
+    "name": "zucchini",
+    "category": "vegetable",
+    "aliases": [
+      "zucchinis",
+      "courgette",
+      "courgettes",
+      "zuchini"
+    ],
+    "fun_fact": "The world's largest zucchini on record weighed over 65 pounds."
+  },
+  {
+    "name": "eggplant",
+    "category": "vegetable",
+    "aliases": [
+      "eggplants",
+      "aubergine",
+      "aubergines",
+      "brinjal"
+    ],
+    "fun_fact": "Eggplant is technically a berry and is related to tomatoes and tobacco."
+  },
+  {
+    "name": "celery",
+    "category": "vegetable",
+    "aliases": [
+      "celerys",
+      "celeries",
+      "celery stalk",
+      "celery stalks"
+    ],
+    "fun_fact": "Celery has negative calories — it takes more energy to digest than it contains."
+  },
+  {
+    "name": "asparagus",
+    "category": "vegetable",
+    "aliases": [
+      "asparaguses",
+      "asparagas"
+    ],
+    "fun_fact": "Asparagus can grow up to 10 inches in a single day."
+  },
+  {
+    "name": "corn",
+    "category": "vegetable",
+    "aliases": [
+      "corns",
+      "sweet corn",
+      "maize",
+      "corn on the cob"
+    ],
+    "fun_fact": "Each ear of corn has an even number of rows, typically 16."
+  },
+  {
+    "name": "pea",
+    "category": "vegetable",
+    "aliases": [
+      "peas",
+      "green peas",
+      "garden peas",
+      "snow pea",
+      "snow peas",
+      "sugar snap pea",
+      "sugar snap peas"
+    ],
+    "fun_fact": "Gregor Mendel used pea plants to discover the laws of genetics."
+  },
+  {
+    "name": "green bean",
+    "category": "vegetable",
+    "aliases": [
+      "green beans",
+      "string bean",
+      "string beans",
+      "french bean",
+      "french beans",
+      "haricot vert"
+    ],
+    "fun_fact": "Green beans are picked before their seeds fully develop — that's why they're tender."
+  },
+  {
+    "name": "brussels sprout",
+    "category": "vegetable",
+    "aliases": [
+      "brussels sprouts",
+      "brussel sprouts",
+      "brussel sprout"
+    ],
+    "fun_fact": "Brussels sprouts grow on a tall stalk, clustered like tiny cabbages."
+  },
+  {
+    "name": "cabbage",
+    "category": "vegetable",
+    "aliases": [
+      "cabbages",
+      "red cabbage",
+      "green cabbage",
+      "savoy cabbage",
+      "napa cabbage"
+    ],
+    "fun_fact": "Ancient Romans believed eating cabbage before drinking would prevent drunkenness."
+  },
+  {
+    "name": "artichoke",
+    "category": "vegetable",
+    "aliases": [
+      "artichokes"
+    ],
+    "fun_fact": "Artichokes are actually flower buds — if left unharvested, they bloom into purple flowers."
+  },
+  {
+    "name": "beet",
+    "category": "vegetable",
+    "aliases": [
+      "beets",
+      "beetroot",
+      "beetroots"
+    ],
+    "fun_fact": "Beetroot juice was used as a natural dye for lips and cheeks in the Victorian era."
+  },
+  {
+    "name": "radish",
+    "category": "vegetable",
+    "aliases": [
+      "radishes",
+      "radishs",
+      "daikon",
+      "daikons"
+    ],
+    "fun_fact": "Radishes were paid as 'wages' to Egyptian pyramid builders."
+  },
+  {
+    "name": "turnip",
+    "category": "vegetable",
+    "aliases": [
+      "turnips"
+    ],
+    "fun_fact": "Before pumpkins, people in Ireland carved turnips for Halloween jack-o'-lanterns."
+  },
+  {
+    "name": "parsnip",
+    "category": "vegetable",
+    "aliases": [
+      "parsnips"
+    ],
+    "fun_fact": "Parsnips get sweeter after a frost because the cold converts their starch to sugar."
+  },
+  {
+    "name": "fennel",
+    "category": "vegetable",
+    "aliases": [
+      "fennels"
+    ],
+    "fun_fact": "Marathon, the Greek city, was named after fennel — 'marathon' means 'place of fennel.'"
+  },
+  {
+    "name": "leek",
+    "category": "vegetable",
+    "aliases": [
+      "leeks"
+    ],
+    "fun_fact": "The leek is the national emblem of Wales."
+  },
+  {
+    "name": "scallion",
+    "category": "vegetable",
+    "aliases": [
+      "scallions",
+      "green onion",
+      "green onions",
+      "spring onion",
+      "spring onions"
+    ],
+    "fun_fact": "Scallions, green onions, and spring onions are all essentially the same thing."
+  },
+  {
+    "name": "shallot",
+    "category": "vegetable",
+    "aliases": [
+      "shallots"
+    ],
+    "fun_fact": "Shallots grow in clusters like garlic rather than as single bulbs like onions."
+  },
+  {
+    "name": "chili pepper",
+    "category": "vegetable",
+    "aliases": [
+      "chili peppers",
+      "chilli",
+      "chillis",
+      "chillies",
+      "hot pepper",
+      "hot peppers",
+      "jalapeno",
+      "jalapenos",
+      "habanero",
+      "habaneros",
+      "serrano",
+      "cayenne"
+    ],
+    "fun_fact": "The heat of chili peppers comes from capsaicin, which birds can't taste at all."
+  },
+  {
+    "name": "okra",
+    "category": "vegetable",
+    "aliases": [
+      "okras",
+      "ladies finger",
+      "lady finger",
+      "ladyfinger",
+      "gumbo"
+    ],
+    "fun_fact": "Okra pods can grow from flower to harvest-ready in just two days."
+  },
+  {
+    "name": "chard",
+    "category": "vegetable",
+    "aliases": [
+      "chards",
+      "swiss chard",
+      "rainbow chard"
+    ],
+    "fun_fact": "Swiss chard has nothing to do with Switzerland — a Swiss botanist just named it."
+  },
+  {
+    "name": "collard greens",
+    "category": "vegetable",
+    "aliases": [
+      "collards",
+      "collard",
+      "collard green"
+    ],
+    "fun_fact": "Collard greens have been cultivated for over 2,000 years."
+  },
+  {
+    "name": "bok choy",
+    "category": "vegetable",
+    "aliases": [
+      "bok choys",
+      "pak choi",
+      "pak choy",
+      "chinese cabbage"
+    ],
+    "fun_fact": "Bok choy has more calcium per ounce than milk."
+  },
+  {
+    "name": "watercress",
+    "category": "vegetable",
+    "aliases": [
+      "watercresses"
+    ],
+    "fun_fact": "Watercress was eaten by Roman soldiers to give them strength and vigor."
+  },
+  {
+    "name": "endive",
+    "category": "vegetable",
+    "aliases": [
+      "endives",
+      "chicory",
+      "escarole",
+      "frisee"
+    ],
+    "fun_fact": "Endive is grown in darkness to keep it pale and reduce bitterness."
+  },
+  {
+    "name": "kohlrabi",
+    "category": "vegetable",
+    "aliases": [
+      "kohlrabis",
+      "kohl rabi"
+    ],
+    "fun_fact": "Kohlrabi means 'cabbage turnip' in German, though it tastes like neither."
+  },
+  {
+    "name": "rutabaga",
+    "category": "vegetable",
+    "aliases": [
+      "rutabagas",
+      "swede",
+      "swedes",
+      "neep",
+      "neeps"
+    ],
+    "fun_fact": "Rutabaga is a cross between a cabbage and a turnip that occurred naturally."
+  },
+  {
+    "name": "jicama",
+    "category": "vegetable",
+    "aliases": [
+      "jicamas"
+    ],
+    "fun_fact": "Jicama roots are edible but the rest of the plant, including the seeds, is toxic."
+  },
+  {
+    "name": "taro",
+    "category": "vegetable",
+    "aliases": [
+      "taros",
+      "taro root"
+    ],
+    "fun_fact": "Taro is one of the oldest cultivated crops, grown for over 10,000 years."
+  },
+  {
+    "name": "cassava",
+    "category": "vegetable",
+    "aliases": [
+      "cassavas",
+      "yuca",
+      "manioc",
+      "tapioca"
+    ],
+    "fun_fact": "Cassava is the third-largest source of carbohydrates in the tropics."
+  },
+  {
+    "name": "bamboo shoot",
+    "category": "vegetable",
+    "aliases": [
+      "bamboo shoots",
+      "bamboo"
+    ],
+    "fun_fact": "Bamboo is the fastest-growing plant on Earth, growing up to 35 inches per day."
+  },
+  {
+    "name": "water chestnut",
+    "category": "vegetable",
+    "aliases": [
+      "water chestnuts"
+    ],
+    "fun_fact": "Water chestnuts aren't nuts — they're aquatic vegetables that grow in marshes."
+  },
+  {
+    "name": "celeriac",
+    "category": "vegetable",
+    "aliases": [
+      "celery root"
+    ],
+    "fun_fact": "Celeriac is the same species as celery but bred for its root instead of its stalks."
+  },
+  {
+    "name": "butternut squash",
+    "category": "vegetable",
+    "aliases": [
+      "butternut squashes",
+      "butternut"
+    ],
+    "fun_fact": "Butternut squash was developed in Massachusetts in the 1940s."
+  },
+  {
+    "name": "acorn squash",
+    "category": "vegetable",
+    "aliases": [
+      "acorn squashes"
+    ],
+    "fun_fact": "Acorn squash was a staple food for Native Americans long before European contact."
+  },
+  {
+    "name": "spaghetti squash",
+    "category": "vegetable",
+    "aliases": [
+      "spaghetti squashes"
+    ],
+    "fun_fact": "When cooked, spaghetti squash flesh separates into noodle-like strands naturally."
+  },
+  {
+    "name": "pumpkin",
+    "category": "vegetable",
+    "aliases": [
+      "pumpkins",
+      "pumpkin squash"
+    ],
+    "fun_fact": "The heaviest pumpkin ever grown weighed over 2,700 pounds."
+  },
+  {
+    "name": "delicata squash",
+    "category": "vegetable",
+    "aliases": [
+      "delicata squashes",
+      "delicata"
+    ],
+    "fun_fact": "Delicata squash skin is edible, unlike most other winter squashes."
+  },
+  {
+    "name": "chayote",
+    "category": "vegetable",
+    "aliases": [
+      "chayotes",
+      "mirliton",
+      "christophene"
+    ],
+    "fun_fact": "A chayote can sprout and grow a new plant while still sitting on your kitchen counter."
+  },
+  {
+    "name": "mushroom",
+    "category": "vegetable",
+    "aliases": [
+      "mushrooms",
+      "button mushroom",
+      "cremini",
+      "baby bella"
+    ],
+    "fun_fact": "Mushrooms are more closely related to humans than to plants."
+  },
+  {
+    "name": "yam",
+    "category": "vegetable",
+    "aliases": [
+      "yams",
+      "true yam"
+    ],
+    "fun_fact": "True yams can grow up to 5 feet long and weigh over 130 pounds."
+  },
+  {
+    "name": "horseradish",
+    "category": "vegetable",
+    "aliases": [
+      "horseradishes"
+    ],
+    "fun_fact": "Horseradish releases its pungent oil only when the root cells are crushed or grated."
+  },
+  {
+    "name": "wasabi",
+    "category": "vegetable",
+    "aliases": [
+      "wasabis"
+    ],
+    "fun_fact": "Real wasabi is so hard to grow that most 'wasabi' served is actually dyed horseradish."
+  },
+  {
+    "name": "ginger",
+    "category": "vegetable",
+    "aliases": [
+      "gingers",
+      "ginger root"
+    ],
+    "fun_fact": "Ginger has been used medicinally for over 5,000 years."
+  },
+  {
+    "name": "turmeric",
+    "category": "vegetable",
+    "aliases": [
+      "turmerics",
+      "turmeric root"
+    ],
+    "fun_fact": "Turmeric has been used as a dye for Buddhist monks' robes for centuries."
+  },
+  {
+    "name": "lotus root",
+    "category": "vegetable",
+    "aliases": [
+      "lotus roots"
+    ],
+    "fun_fact": "Lotus roots have a beautiful hole pattern that allows air to travel to submerged parts of the plant."
+  },
+  {
+    "name": "hearts of palm",
+    "category": "vegetable",
+    "aliases": [
+      "heart of palm",
+      "palm heart",
+      "palm hearts",
+      "palmito"
+    ],
+    "fun_fact": "Harvesting hearts of palm from a single-stemmed palm kills the entire tree."
+  },
+  {
+    "name": "romanesco",
+    "category": "vegetable",
+    "aliases": [
+      "romanescos",
+      "romanesco broccoli"
+    ],
+    "fun_fact": "Romanesco grows in a perfect mathematical fractal pattern — each bud is a Fibonacci spiral."
+  },
+  {
+    "name": "broccoli rabe",
+    "category": "vegetable",
+    "aliases": [
+      "broccoli rabi",
+      "rapini",
+      "broccolini"
+    ],
+    "fun_fact": "Broccoli rabe is more closely related to turnips than to broccoli."
+  },
+  {
+    "name": "daikon",
+    "category": "vegetable",
+    "aliases": [
+      "daikons",
+      "daikon radish",
+      "white radish",
+      "mooli"
+    ],
+    "fun_fact": "Daikon radishes can grow over 3 feet long and weigh up to 50 pounds."
+  },
+  {
+    "name": "edamame",
+    "category": "vegetable",
+    "aliases": [
+      "edamames",
+      "edamame beans"
+    ],
+    "fun_fact": "Edamame are immature soybeans picked before they harden."
+  },
+  {
+    "name": "snap pea",
+    "category": "vegetable",
+    "aliases": [
+      "snap peas",
+      "sugar snap",
+      "sugar snaps"
+    ],
+    "fun_fact": "Snap peas were created in the 1970s by crossing garden peas with snow peas."
+  },
+  {
+    "name": "samphire",
+    "category": "vegetable",
+    "aliases": [
+      "samphires",
+      "sea asparagus",
+      "glasswort"
+    ],
+    "fun_fact": "Samphire grows wild on coastal rocks and naturally tastes salty."
+  },
+  {
+    "name": "fiddlehead",
+    "category": "vegetable",
+    "aliases": [
+      "fiddleheads",
+      "fiddlehead fern"
+    ],
+    "fun_fact": "Fiddleheads are the curled fronds of young ferns, available for just a few weeks each spring."
+  },
+  {
+    "name": "nopales",
+    "category": "vegetable",
+    "aliases": [
+      "nopal",
+      "cactus paddle",
+      "cactus paddles",
+      "prickly pear cactus"
+    ],
+    "fun_fact": "Nopales are cactus paddles that have been a staple in Mexican cuisine for thousands of years."
+  },
+  {
+    "name": "sorrel",
+    "category": "vegetable",
+    "aliases": [
+      "sorrels"
+    ],
+    "fun_fact": "Sorrel's tangy lemony flavor comes from oxalic acid, the same compound found in rhubarb."
+  },
+  {
+    "name": "rice",
+    "category": "grain",
+    "aliases": [
+      "rices",
+      "white rice",
+      "brown rice",
+      "basmati",
+      "jasmine rice",
+      "wild rice",
+      "arborio",
+      "sushi rice"
+    ],
+    "fun_fact": "Rice feeds more than half the world's population."
+  },
+  {
+    "name": "wheat",
+    "category": "grain",
+    "aliases": [
+      "wheats",
+      "whole wheat",
+      "wheat berry",
+      "wheat berries"
+    ],
+    "fun_fact": "Wheat was one of the first crops domesticated by humans, around 10,000 years ago."
+  },
+  {
+    "name": "oat",
+    "category": "grain",
+    "aliases": [
+      "oats",
+      "oatmeal",
+      "rolled oats",
+      "steel cut oats",
+      "porridge",
+      "oat groats"
+    ],
+    "fun_fact": "Oats are the only cereal grain that naturally contain a significant amount of fat."
+  },
+  {
+    "name": "barley",
+    "category": "grain",
+    "aliases": [
+      "barleys",
+      "pearl barley",
+      "hulled barley"
+    ],
+    "fun_fact": "Barley was the standard unit of measurement in ancient Mesopotamia."
+  },
+  {
+    "name": "corn",
+    "category": "grain",
+    "aliases": [
+      "corns",
+      "maize",
+      "cornmeal",
+      "polenta",
+      "grits",
+      "hominy"
+    ],
+    "fun_fact": "An ear of corn always has an even number of rows."
+  },
+  {
+    "name": "quinoa",
+    "category": "grain",
+    "aliases": [
+      "quinoas",
+      "keen-wah"
+    ],
+    "fun_fact": "Quinoa is not actually a grain — it's a seed related to spinach and beets."
+  },
+  {
+    "name": "millet",
+    "category": "grain",
+    "aliases": [
+      "millets",
+      "finger millet",
+      "pearl millet"
+    ],
+    "fun_fact": "Millet was the first domesticated cereal grain, predating rice and wheat."
+  },
+  {
+    "name": "sorghum",
+    "category": "grain",
+    "aliases": [
+      "sorghums",
+      "jowar",
+      "milo"
+    ],
+    "fun_fact": "Sorghum is the fifth most important cereal crop in the world."
+  },
+  {
+    "name": "buckwheat",
+    "category": "grain",
+    "aliases": [
+      "buckwheats",
+      "kasha",
+      "soba"
+    ],
+    "fun_fact": "Buckwheat isn't wheat at all — it's related to rhubarb."
+  },
+  {
+    "name": "rye",
+    "category": "grain",
+    "aliases": [
+      "ryes",
+      "rye grain"
+    ],
+    "fun_fact": "Rye can grow in poor soil and cold climates where other grains fail."
+  },
+  {
+    "name": "spelt",
+    "category": "grain",
+    "aliases": [
+      "spelts"
+    ],
+    "fun_fact": "Spelt is an ancient grain that's been cultivated for over 7,000 years."
+  },
+  {
+    "name": "amaranth",
+    "category": "grain",
+    "aliases": [
+      "amaranths"
+    ],
+    "fun_fact": "Amaranth was a staple food of the Aztecs, who mixed it with blood for religious ceremonies."
+  },
+  {
+    "name": "teff",
+    "category": "grain",
+    "aliases": [
+      "teffs"
+    ],
+    "fun_fact": "Teff grains are so tiny that one grain is only 1/150th the size of a wheat kernel."
+  },
+  {
+    "name": "farro",
+    "category": "grain",
+    "aliases": [
+      "farros",
+      "emmer",
+      "emmer wheat"
+    ],
+    "fun_fact": "Farro fed the Roman legions as they conquered the ancient world."
+  },
+  {
+    "name": "freekeh",
+    "category": "grain",
+    "aliases": [
+      "freekahs",
+      "freekah",
+      "farik"
+    ],
+    "fun_fact": "Freekeh is green wheat that's been roasted while still young, giving it a smoky flavor."
+  },
+  {
+    "name": "kamut",
+    "category": "grain",
+    "aliases": [
+      "kamuts",
+      "khorasan wheat"
+    ],
+    "fun_fact": "Kamut grains are two to three times the size of modern wheat."
+  },
+  {
+    "name": "triticale",
+    "category": "grain",
+    "aliases": [
+      "triticales"
+    ],
+    "fun_fact": "Triticale is a human-made grain — a cross between wheat and rye created in the 1800s."
+  },
+  {
+    "name": "couscous",
+    "category": "grain",
+    "aliases": [
+      "couscouses"
+    ],
+    "fun_fact": "Couscous isn't a grain — it's tiny pasta made from semolina wheat."
+  },
+  {
+    "name": "bulgur",
+    "category": "grain",
+    "aliases": [
+      "bulgurs",
+      "bulgar",
+      "bulgher",
+      "cracked wheat"
+    ],
+    "fun_fact": "Bulgur is one of the fastest-cooking whole grains because it's already been parboiled."
+  },
+  {
+    "name": "semolina",
+    "category": "grain",
+    "aliases": [
+      "semolinas"
+    ],
+    "fun_fact": "Semolina is the coarse flour used to make pasta, couscous, and many desserts."
+  },
+  {
+    "name": "cornmeal",
+    "category": "grain",
+    "aliases": [
+      "corn meal",
+      "polenta",
+      "grits",
+      "masa"
+    ],
+    "fun_fact": "Polenta was once considered peasant food in Italy but is now a gourmet staple."
+  },
+  {
+    "name": "einkorn",
+    "category": "grain",
+    "aliases": [
+      "einkorns",
+      "einkorn wheat"
+    ],
+    "fun_fact": "Einkorn is the oldest known variety of wheat, dating back 10,000 years."
+  },
+  {
+    "name": "tapioca",
+    "category": "grain",
+    "aliases": [
+      "tapiocas",
+      "tapioca pearls",
+      "boba",
+      "sago"
+    ],
+    "fun_fact": "Tapioca comes from cassava root and is the basis for boba tea pearls."
+  },
+  {
+    "name": "wild rice",
+    "category": "grain",
+    "aliases": [
+      "wild rices"
+    ],
+    "fun_fact": "Wild rice isn't actually rice — it's the seed of an aquatic grass native to North America."
+  },
+  {
+    "name": "arborio rice",
+    "category": "grain",
+    "aliases": [
+      "arborio"
+    ],
+    "fun_fact": "Arborio rice can absorb five times its weight in liquid, which is what makes risotto creamy."
+  },
+  {
+    "name": "jasmine rice",
+    "category": "grain",
+    "aliases": [
+      "jasmine"
+    ],
+    "fun_fact": "Jasmine rice gets its floral aroma from a compound also found in pandan leaves and popcorn."
+  },
+  {
+    "name": "basmati rice",
+    "category": "grain",
+    "aliases": [
+      "basmati"
+    ],
+    "fun_fact": "Aged basmati rice is considered superior — some varieties are aged for up to two years."
+  },
+  {
+    "name": "flaxseed meal",
+    "category": "grain",
+    "aliases": [
+      "flax meal"
+    ],
+    "fun_fact": "Flaxseed meal was used by ancient Egyptians both as food and as a linen textile."
+  },
+  {
+    "name": "lentil",
+    "category": "legume",
+    "aliases": [
+      "lentils",
+      "red lentil",
+      "green lentil",
+      "brown lentil",
+      "black lentil",
+      "puy lentil"
+    ],
+    "fun_fact": "Lentils are one of the oldest cultivated foods, dating back over 9,000 years."
+  },
+  {
+    "name": "chickpea",
+    "category": "legume",
+    "aliases": [
+      "chickpeas",
+      "garbanzo",
+      "garbanzo bean",
+      "garbanzo beans",
+      "chana"
+    ],
+    "fun_fact": "Chickpeas are the most widely consumed legume in the world."
+  },
+  {
+    "name": "black bean",
+    "category": "legume",
+    "aliases": [
+      "black beans",
+      "turtle bean",
+      "turtle beans"
+    ],
+    "fun_fact": "Black beans have as many antioxidants as grapes and cranberries."
+  },
+  {
+    "name": "kidney bean",
+    "category": "legume",
+    "aliases": [
+      "kidney beans",
+      "red kidney bean"
+    ],
+    "fun_fact": "Raw kidney beans contain a toxin that can cause severe nausea — always cook them first."
+  },
+  {
+    "name": "pinto bean",
+    "category": "legume",
+    "aliases": [
+      "pinto beans"
+    ],
+    "fun_fact": "Pinto means 'painted' in Spanish, referring to the bean's speckled appearance."
+  },
+  {
+    "name": "navy bean",
+    "category": "legume",
+    "aliases": [
+      "navy beans",
+      "haricot bean",
+      "haricot beans",
+      "white bean",
+      "white beans"
+    ],
+    "fun_fact": "Navy beans got their name because the US Navy served them as a staple food in the 1800s."
+  },
+  {
+    "name": "lima bean",
+    "category": "legume",
+    "aliases": [
+      "lima beans",
+      "butter bean",
+      "butter beans"
+    ],
+    "fun_fact": "Lima beans are named after Lima, Peru, where they were first discovered by Europeans."
+  },
+  {
+    "name": "soybean",
+    "category": "legume",
+    "aliases": [
+      "soybeans",
+      "soya bean",
+      "soya beans",
+      "soya",
+      "edamame"
+    ],
+    "fun_fact": "Soybeans are used to make everything from tofu to biodiesel fuel."
+  },
+  {
+    "name": "mung bean",
+    "category": "legume",
+    "aliases": [
+      "mung beans",
+      "moong bean",
+      "moong",
+      "green gram"
+    ],
+    "fun_fact": "Mung bean sprouts can grow 2-3 inches in just a few days."
+  },
+  {
+    "name": "adzuki bean",
+    "category": "legume",
+    "aliases": [
+      "adzuki beans",
+      "azuki",
+      "azuki bean",
+      "red bean",
+      "red beans"
+    ],
+    "fun_fact": "In Japan, adzuki beans are used to make sweet red bean paste for desserts."
+  },
+  {
+    "name": "fava bean",
+    "category": "legume",
+    "aliases": [
+      "fava beans",
+      "broad bean",
+      "broad beans"
+    ],
+    "fun_fact": "Pythagoras forbade his followers from eating fava beans for mysterious reasons."
+  },
+  {
+    "name": "green pea",
+    "category": "legume",
+    "aliases": [
+      "green peas",
+      "garden pea",
+      "garden peas",
+      "english pea",
+      "english peas"
+    ],
+    "fun_fact": "The first peas were grown for their dried seeds, not eaten fresh like today."
+  },
+  {
+    "name": "split pea",
+    "category": "legume",
+    "aliases": [
+      "split peas",
+      "yellow split pea",
+      "green split pea"
+    ],
+    "fun_fact": "Split peas are simply dried peas that have been peeled and split in half."
+  },
+  {
+    "name": "black-eyed pea",
+    "category": "legume",
+    "aliases": [
+      "black-eyed peas",
+      "cowpea",
+      "cowpeas",
+      "black eyed pea"
+    ],
+    "fun_fact": "Eating black-eyed peas on New Year's Day is a tradition believed to bring good luck."
+  },
+  {
+    "name": "pigeon pea",
+    "category": "legume",
+    "aliases": [
+      "pigeon peas",
+      "toor dal",
+      "toor",
+      "arhar"
+    ],
+    "fun_fact": "Pigeon peas can fix nitrogen in the soil, making them great for sustainable farming."
+  },
+  {
+    "name": "cannellini bean",
+    "category": "legume",
+    "aliases": [
+      "cannellini beans",
+      "white kidney bean",
+      "white kidney beans"
+    ],
+    "fun_fact": "Cannellini beans are the most popular white bean in Italian cuisine."
+  },
+  {
+    "name": "cranberry bean",
+    "category": "legume",
+    "aliases": [
+      "cranberry beans",
+      "borlotti bean",
+      "borlotti beans",
+      "romano bean"
+    ],
+    "fun_fact": "Cranberry beans lose their beautiful speckled pattern when cooked."
+  },
+  {
+    "name": "great northern bean",
+    "category": "legume",
+    "aliases": [
+      "great northern beans"
+    ],
+    "fun_fact": "Great northern beans are medium-sized white beans popular in French cassoulet."
+  },
+  {
+    "name": "lupini bean",
+    "category": "legume",
+    "aliases": [
+      "lupini beans",
+      "lupin bean",
+      "lupin beans"
+    ],
+    "fun_fact": "Lupini beans must be soaked for days to remove their natural bitter alkaloids."
+  },
+  {
+    "name": "peanut",
+    "category": "legume",
+    "aliases": [
+      "peanuts",
+      "groundnut",
+      "groundnuts",
+      "goober"
+    ],
+    "fun_fact": "Peanuts aren't nuts — they're legumes that grow underground."
+  },
+  {
+    "name": "mesquite",
+    "category": "legume",
+    "aliases": [
+      "mesquite bean",
+      "mesquite beans",
+      "mesquite flour"
+    ],
+    "fun_fact": "Mesquite pods were a primary food source for Native Americans in the Southwest."
+  },
+  {
+    "name": "carob",
+    "category": "legume",
+    "aliases": [
+      "carobs",
+      "carob bean",
+      "carob powder"
+    ],
+    "fun_fact": "Carob seeds are so uniform in size they were used as the original carat weight for gemstones."
+  },
+  {
+    "name": "tamarind",
+    "category": "legume",
+    "aliases": [
+      "tamarinds"
+    ],
+    "fun_fact": "Tamarind pod pulp is both sweet and sour and is used in cuisines across 5 continents."
+  },
+  {
+    "name": "alfalfa",
+    "category": "legume",
+    "aliases": [
+      "alfalfa sprouts",
+      "lucerne"
+    ],
+    "fun_fact": "Alfalfa roots can grow over 20 feet deep into the ground."
+  },
+  {
+    "name": "almond",
+    "category": "nut",
+    "aliases": [
+      "almonds",
+      "almand"
+    ],
+    "fun_fact": "Almonds are seeds, not true nuts — they're related to peaches and plums."
+  },
+  {
+    "name": "walnut",
+    "category": "nut",
+    "aliases": [
+      "walnuts",
+      "english walnut",
+      "black walnut"
+    ],
+    "fun_fact": "Walnut shells were used as explosives in World War II."
+  },
+  {
+    "name": "cashew",
+    "category": "nut",
+    "aliases": [
+      "cashews",
+      "cashew nut",
+      "cashew nuts"
+    ],
+    "fun_fact": "Cashews grow hanging from the bottom of a cashew apple fruit."
+  },
+  {
+    "name": "pistachio",
+    "category": "nut",
+    "aliases": [
+      "pistachios",
+      "pistachio nut"
+    ],
+    "fun_fact": "Pistachios are sometimes called 'the smiling nut' in Iran and 'the happy nut' in China."
+  },
+  {
+    "name": "pecan",
+    "category": "nut",
+    "aliases": [
+      "pecans"
+    ],
+    "fun_fact": "Pecans are the only major tree nut native to North America."
+  },
+  {
+    "name": "macadamia",
+    "category": "nut",
+    "aliases": [
+      "macadamias",
+      "macadamia nut",
+      "macadamia nuts"
+    ],
+    "fun_fact": "Macadamia nuts have the hardest shell of any commercially sold nut."
+  },
+  {
+    "name": "hazelnut",
+    "category": "nut",
+    "aliases": [
+      "hazelnuts",
+      "filbert",
+      "filberts",
+      "cobnut"
+    ],
+    "fun_fact": "About 70% of the world's hazelnuts come from Turkey."
+  },
+  {
+    "name": "brazil nut",
+    "category": "nut",
+    "aliases": [
+      "brazil nuts"
+    ],
+    "fun_fact": "Brazil nut trees can live for over 500 years and only grow in undisturbed rainforest."
+  },
+  {
+    "name": "chestnut",
+    "category": "nut",
+    "aliases": [
+      "chestnuts",
+      "sweet chestnut"
+    ],
+    "fun_fact": "Chestnuts are the only nuts that contain vitamin C."
+  },
+  {
+    "name": "pine nut",
+    "category": "nut",
+    "aliases": [
+      "pine nuts",
+      "pignoli",
+      "pinoli",
+      "pinon"
+    ],
+    "fun_fact": "It can take up to 25 years for a pine tree to start producing pine nut cones."
+  },
+  {
+    "name": "coconut",
+    "category": "nut",
+    "aliases": [
+      "coconuts",
+      "cocoanut"
+    ],
+    "fun_fact": "Coconuts are technically drupes, not nuts — and they can float across oceans to spread."
+  },
+  {
+    "name": "acorn",
+    "category": "nut",
+    "aliases": [
+      "acorns"
+    ],
+    "fun_fact": "Acorns were a dietary staple for many Native American tribes for thousands of years."
+  },
+  {
+    "name": "kola nut",
+    "category": "nut",
+    "aliases": [
+      "kola nuts",
+      "cola nut",
+      "cola nuts"
+    ],
+    "fun_fact": "Kola nuts were the original source of caffeine in Coca-Cola."
+  },
+  {
+    "name": "tiger nut",
+    "category": "nut",
+    "aliases": [
+      "tiger nuts",
+      "chufa"
+    ],
+    "fun_fact": "Tiger nuts aren't nuts at all — they're small root vegetables (tubers)."
+  },
+  {
+    "name": "candlenut",
+    "category": "nut",
+    "aliases": [
+      "candlenuts",
+      "kukui nut"
+    ],
+    "fun_fact": "Candlenuts are so oily they were literally burned as candles in ancient Hawaii."
+  },
+  {
+    "name": "marcona almond",
+    "category": "nut",
+    "aliases": [
+      "marcona almonds"
+    ],
+    "fun_fact": "Marcona almonds are called the 'queen of almonds' and only grow in Spain."
+  },
+  {
+    "name": "mongongo nut",
+    "category": "nut",
+    "aliases": [
+      "mongongo nuts"
+    ],
+    "fun_fact": "Mongongo nuts have been a staple food in southern Africa for over 7,000 years."
+  },
+  {
+    "name": "chia seed",
+    "category": "seed",
+    "aliases": [
+      "chia seeds",
+      "chia"
+    ],
+    "fun_fact": "Chia seeds can absorb up to 12 times their weight in water."
+  },
+  {
+    "name": "flaxseed",
+    "category": "seed",
+    "aliases": [
+      "flaxseeds",
+      "flax seed",
+      "flax seeds",
+      "linseed",
+      "linseeds"
+    ],
+    "fun_fact": "Flaxseed was cultivated in Babylon as early as 3000 BC."
+  },
+  {
+    "name": "hemp seed",
+    "category": "seed",
+    "aliases": [
+      "hemp seeds",
+      "hemp hearts"
+    ],
+    "fun_fact": "Hemp seeds contain all 20 amino acids, including all 9 essential ones."
+  },
+  {
+    "name": "sunflower seed",
+    "category": "seed",
+    "aliases": [
+      "sunflower seeds"
+    ],
+    "fun_fact": "A single sunflower head can contain up to 2,000 seeds."
+  },
+  {
+    "name": "pumpkin seed",
+    "category": "seed",
+    "aliases": [
+      "pumpkin seeds",
+      "pepita",
+      "pepitas"
+    ],
+    "fun_fact": "Pumpkin seeds have been found in Mexican caves dating back over 7,000 years."
+  },
+  {
+    "name": "sesame seed",
+    "category": "seed",
+    "aliases": [
+      "sesame seeds",
+      "sesame",
+      "tahini"
+    ],
+    "fun_fact": "Sesame may be the oldest condiment known to man, dating back to 3000 BC."
+  },
+  {
+    "name": "poppy seed",
+    "category": "seed",
+    "aliases": [
+      "poppy seeds"
+    ],
+    "fun_fact": "Poppy seeds can cause a false positive on drug tests because they come from opium poppies."
+  },
+  {
+    "name": "fennel seed",
+    "category": "seed",
+    "aliases": [
+      "fennel seeds"
+    ],
+    "fun_fact": "Roman gladiators ate fennel seeds believing they gave them strength and courage."
+  },
+  {
+    "name": "cumin seed",
+    "category": "seed",
+    "aliases": [
+      "cumin seeds"
+    ],
+    "fun_fact": "Cumin is the second most popular spice in the world after black pepper."
+  },
+  {
+    "name": "coriander seed",
+    "category": "seed",
+    "aliases": [
+      "coriander seeds"
+    ],
+    "fun_fact": "Coriander seeds have been found in ancient Egyptian tombs dating back 3,000 years."
+  },
+  {
+    "name": "caraway seed",
+    "category": "seed",
+    "aliases": [
+      "caraway seeds",
+      "caraway"
+    ],
+    "fun_fact": "Caraway seeds are the key flavoring in rye bread."
+  },
+  {
+    "name": "mustard seed",
+    "category": "seed",
+    "aliases": [
+      "mustard seeds"
+    ],
+    "fun_fact": "It takes about 1,000 mustard seeds to make one tablespoon of prepared mustard."
+  },
+  {
+    "name": "nigella seed",
+    "category": "seed",
+    "aliases": [
+      "nigella seeds",
+      "black seed",
+      "black seeds",
+      "black cumin",
+      "kalonji"
+    ],
+    "fun_fact": "Nigella seeds have been found in Tutankhamun's tomb and are called 'the seed of blessing.'"
+  },
+  {
+    "name": "sacha inchi",
+    "category": "seed",
+    "aliases": [
+      "sacha inchi seeds",
+      "inca nut",
+      "inca peanut"
+    ],
+    "fun_fact": "Sacha inchi seeds contain more omega-3 than salmon."
+  },
+  {
+    "name": "watermelon seed",
+    "category": "seed",
+    "aliases": [
+      "watermelon seeds"
+    ],
+    "fun_fact": "Roasted watermelon seeds are a popular snack in the Middle East and Asia."
+  },
+  {
+    "name": "lotus seed",
+    "category": "seed",
+    "aliases": [
+      "lotus seeds"
+    ],
+    "fun_fact": "Lotus seeds have been germinated after lying dormant for over 1,000 years."
+  },
+  {
+    "name": "basil seed",
+    "category": "seed",
+    "aliases": [
+      "basil seeds",
+      "sabja",
+      "tukmaria"
+    ],
+    "fun_fact": "Basil seeds swell up into a gel-like coating when soaked, similar to chia seeds."
+  },
+  {
+    "name": "beef",
+    "category": "meat",
+    "aliases": [
+      "beefs",
+      "steak",
+      "steaks",
+      "ground beef",
+      "mince",
+      "brisket",
+      "sirloin",
+      "ribeye",
+      "filet mignon",
+      "t-bone",
+      "chuck",
+      "flank steak",
+      "beef tenderloin"
+    ],
+    "fun_fact": "Beef from grass-fed cattle has a different fatty acid profile than grain-fed."
+  },
+  {
+    "name": "pork",
+    "category": "meat",
+    "aliases": [
+      "porks",
+      "pork chop",
+      "pork chops",
+      "bacon",
+      "ham",
+      "pork loin",
+      "pork belly",
+      "tenderloin",
+      "pork shoulder",
+      "pulled pork"
+    ],
+    "fun_fact": "Pork is the most widely consumed meat in the world."
+  },
+  {
+    "name": "lamb",
+    "category": "meat",
+    "aliases": [
+      "lambs",
+      "lamb chop",
+      "lamb chops",
+      "rack of lamb",
+      "lamb shank",
+      "leg of lamb",
+      "mutton"
+    ],
+    "fun_fact": "Lamb under one year old is called lamb; over one year is called mutton."
+  },
+  {
+    "name": "veal",
+    "category": "meat",
+    "aliases": [
+      "veals",
+      "veal chop",
+      "veal cutlet",
+      "scallopini"
+    ],
+    "fun_fact": "Veal has been considered a delicacy since ancient Roman times."
+  },
+  {
+    "name": "venison",
+    "category": "meat",
+    "aliases": [
+      "venisons",
+      "deer meat",
+      "deer"
+    ],
+    "fun_fact": "Venison comes from the Latin 'venari,' meaning 'to hunt.'"
+  },
+  {
+    "name": "bison",
+    "category": "meat",
+    "aliases": [
+      "bisons",
+      "buffalo meat",
+      "buffalo"
+    ],
+    "fun_fact": "Bison meat has less fat and cholesterol than chicken breast."
+  },
+  {
+    "name": "rabbit",
+    "category": "meat",
+    "aliases": [
+      "rabbits",
+      "rabbit meat"
+    ],
+    "fun_fact": "Rabbit was the most commonly consumed meat in medieval Europe."
+  },
+  {
+    "name": "goat",
+    "category": "meat",
+    "aliases": [
+      "goats",
+      "goat meat",
+      "chevon",
+      "cabrito"
+    ],
+    "fun_fact": "Goat is the most widely consumed red meat globally."
+  },
+  {
+    "name": "elk",
+    "category": "meat",
+    "aliases": [
+      "elks",
+      "elk meat",
+      "wapiti"
+    ],
+    "fun_fact": "Elk antlers can grow up to an inch per day, making them one of the fastest-growing bones."
+  },
+  {
+    "name": "wild boar",
+    "category": "meat",
+    "aliases": [
+      "wild boars",
+      "boar",
+      "boar meat"
+    ],
+    "fun_fact": "Wild boar is the ancestor of all domestic pig breeds."
+  },
+  {
+    "name": "horse",
+    "category": "meat",
+    "aliases": [
+      "horse meat",
+      "horsemeat",
+      "equine"
+    ],
+    "fun_fact": "Horse meat is a delicacy in many countries including France, Japan, and Kazakhstan."
+  },
+  {
+    "name": "kangaroo",
+    "category": "meat",
+    "aliases": [
+      "kangaroo meat",
+      "roo"
+    ],
+    "fun_fact": "Kangaroo meat is extremely lean, with less than 2% fat."
+  },
+  {
+    "name": "ostrich",
+    "category": "meat",
+    "aliases": [
+      "ostrich meat"
+    ],
+    "fun_fact": "Ostrich meat looks and tastes more like beef than poultry despite being a bird."
+  },
+  {
+    "name": "alligator",
+    "category": "meat",
+    "aliases": [
+      "alligator meat",
+      "gator",
+      "gator meat"
+    ],
+    "fun_fact": "Alligator meat tastes like a mild cross between chicken and fish."
+  },
+  {
+    "name": "frog legs",
+    "category": "meat",
+    "aliases": [
+      "frog leg",
+      "frogs legs",
+      "frog"
+    ],
+    "fun_fact": "France consumes an estimated 80 million frogs per year."
+  },
+  {
+    "name": "prosciutto",
+    "category": "meat",
+    "aliases": [
+      "prosciuttos"
+    ],
+    "fun_fact": "Authentic prosciutto di Parma takes at least 12 months to cure."
+  },
+  {
+    "name": "salami",
+    "category": "meat",
+    "aliases": [
+      "salamis",
+      "salame"
+    ],
+    "fun_fact": "Salami was invented as a way to preserve meat before refrigeration existed."
+  },
+  {
+    "name": "bresaola",
+    "category": "meat",
+    "aliases": [
+      "bresaolas"
+    ],
+    "fun_fact": "Bresaola is air-dried beef that originated in the Lombardy region of Italy."
+  },
+  {
+    "name": "pancetta",
+    "category": "meat",
+    "aliases": [
+      "pancettas"
+    ],
+    "fun_fact": "Pancetta is Italian bacon that's cured but not smoked."
+  },
+  {
+    "name": "chorizo",
+    "category": "meat",
+    "aliases": [
+      "chorizos"
+    ],
+    "fun_fact": "Spanish and Mexican chorizo are completely different — Spanish is cured, Mexican is fresh."
+  },
+  {
+    "name": "corned beef",
+    "category": "meat",
+    "aliases": [
+      "corned beefs"
+    ],
+    "fun_fact": "The 'corn' in corned beef refers to the large grains of salt used to cure it."
+  },
+  {
+    "name": "jerky",
+    "category": "meat",
+    "aliases": [
+      "beef jerky",
+      "turkey jerky",
+      "jerkys",
+      "biltong"
+    ],
+    "fun_fact": "Jerky comes from the Quechua word 'ch'arki,' meaning dried meat."
+  },
+  {
+    "name": "pastrami",
+    "category": "meat",
+    "aliases": [
+      "pastramis"
+    ],
+    "fun_fact": "Pastrami was invented by Romanian Jews as a way to preserve goose meat."
+  },
+  {
+    "name": "sopressata",
+    "category": "meat",
+    "aliases": [
+      "sopressatas",
+      "soppressata"
+    ],
+    "fun_fact": "Sopressata is pressed flat during curing, which gives it its name and distinctive shape."
+  },
+  {
+    "name": "chicken",
+    "category": "poultry",
+    "aliases": [
+      "chickens",
+      "chicken breast",
+      "chicken thigh",
+      "chicken wing",
+      "chicken drumstick",
+      "chicken leg",
+      "rotisserie chicken"
+    ],
+    "fun_fact": "There are more chickens on Earth than any other bird — about 25 billion."
+  },
+  {
+    "name": "turkey",
+    "category": "poultry",
+    "aliases": [
+      "turkeys",
+      "turkey breast",
+      "ground turkey"
+    ],
+    "fun_fact": "Benjamin Franklin wanted the turkey, not the bald eagle, as America's national bird."
+  },
+  {
+    "name": "duck",
+    "category": "poultry",
+    "aliases": [
+      "ducks",
+      "duck breast",
+      "duck leg",
+      "peking duck",
+      "duck confit"
+    ],
+    "fun_fact": "Ducks have waterproof feathers — even when they dive underwater, the downy layer stays dry."
+  },
+  {
+    "name": "goose",
+    "category": "poultry",
+    "aliases": [
+      "geese",
+      "goose breast",
+      "goose leg"
+    ],
+    "fun_fact": "Geese mate for life and can live over 20 years."
+  },
+  {
+    "name": "quail",
+    "category": "poultry",
+    "aliases": [
+      "quails",
+      "quail breast"
+    ],
+    "fun_fact": "Quail eggs are considered a delicacy and have proportionally larger yolks than chicken eggs."
+  },
+  {
+    "name": "pheasant",
+    "category": "poultry",
+    "aliases": [
+      "pheasants"
+    ],
+    "fun_fact": "Male pheasants are so colorful because they need to attract females who are plain brown."
+  },
+  {
+    "name": "guinea fowl",
+    "category": "poultry",
+    "aliases": [
+      "guinea fowls",
+      "guinea hen",
+      "guinea hens"
+    ],
+    "fun_fact": "Guinea fowl are excellent at controlling tick populations."
+  },
+  {
+    "name": "cornish hen",
+    "category": "poultry",
+    "aliases": [
+      "cornish hens",
+      "cornish game hen",
+      "cornish game hens",
+      "poussin"
+    ],
+    "fun_fact": "Cornish hens aren't a separate breed — they're just young chickens harvested early."
+  },
+  {
+    "name": "squab",
+    "category": "poultry",
+    "aliases": [
+      "squabs",
+      "pigeon"
+    ],
+    "fun_fact": "Squab (young pigeon) was a common luxury food in ancient Egypt and Rome."
+  },
+  {
+    "name": "partridge",
+    "category": "poultry",
+    "aliases": [
+      "partridges"
+    ],
+    "fun_fact": "The 'partridge in a pear tree' from the Christmas song is actually a red-legged partridge."
+  },
+  {
+    "name": "grouse",
+    "category": "poultry",
+    "aliases": [
+      "grouses"
+    ],
+    "fun_fact": "The opening of grouse hunting season on August 12 is called 'The Glorious Twelfth' in Britain."
+  },
+  {
+    "name": "emu",
+    "category": "poultry",
+    "aliases": [
+      "emus",
+      "emu meat"
+    ],
+    "fun_fact": "Emu meat is very dark red, lean, and tastes similar to beef."
+  },
+  {
+    "name": "dove",
+    "category": "poultry",
+    "aliases": [
+      "doves",
+      "dove meat"
+    ],
+    "fun_fact": "Doves have been eaten as a game bird for thousands of years across the Mediterranean."
+  },
+  {
+    "name": "capon",
+    "category": "poultry",
+    "aliases": [
+      "capons"
+    ],
+    "fun_fact": "A capon is a castrated rooster, which makes the meat more tender and flavorful."
+  },
+  {
+    "name": "salmon",
+    "category": "fish",
+    "aliases": [
+      "salmons",
+      "atlantic salmon",
+      "pacific salmon",
+      "sockeye",
+      "chinook",
+      "king salmon",
+      "coho",
+      "pink salmon",
+      "lox",
+      "smoked salmon"
+    ],
+    "fun_fact": "Salmon can jump up to 12 feet in the air to get past waterfalls."
+  },
+  {
+    "name": "tuna",
+    "category": "fish",
+    "aliases": [
+      "tunas",
+      "ahi tuna",
+      "yellowfin tuna",
+      "bluefin tuna",
+      "albacore",
+      "skipjack"
+    ],
+    "fun_fact": "A single bluefin tuna sold for $3.1 million at a Tokyo auction in 2019."
+  },
+  {
+    "name": "cod",
+    "category": "fish",
+    "aliases": [
+      "cods",
+      "atlantic cod",
+      "pacific cod",
+      "salt cod",
+      "bacalao"
+    ],
+    "fun_fact": "Cod was so important to early American history that a wooden carving of one hangs in the Massachusetts State House."
+  },
+  {
+    "name": "tilapia",
+    "category": "fish",
+    "aliases": [
+      "tilapias"
+    ],
+    "fun_fact": "Tilapia is one of the oldest farmed fish — ancient Egyptians raised them over 4,000 years ago."
+  },
+  {
+    "name": "halibut",
+    "category": "fish",
+    "aliases": [
+      "halibuts"
+    ],
+    "fun_fact": "Halibut can weigh over 500 pounds and live for more than 50 years."
+  },
+  {
+    "name": "trout",
+    "category": "fish",
+    "aliases": [
+      "trouts",
+      "rainbow trout",
+      "brown trout",
+      "brook trout",
+      "steelhead"
+    ],
+    "fun_fact": "Rainbow trout and steelhead are actually the same species — the difference is lifestyle."
+  },
+  {
+    "name": "bass",
+    "category": "fish",
+    "aliases": [
+      "basses",
+      "sea bass",
+      "striped bass",
+      "largemouth bass",
+      "smallmouth bass",
+      "chilean sea bass"
+    ],
+    "fun_fact": "Chilean sea bass was originally called 'Patagonian toothfish' until a fish dealer rebranded it."
+  },
+  {
+    "name": "sardine",
+    "category": "fish",
+    "aliases": [
+      "sardines"
+    ],
+    "fun_fact": "Sardines are named after the Italian island of Sardinia, where they were once abundant."
+  },
+  {
+    "name": "anchovy",
+    "category": "fish",
+    "aliases": [
+      "anchovies",
+      "anchovys"
+    ],
+    "fun_fact": "Anchovies are the secret ingredient in Worcestershire sauce and Caesar dressing."
+  },
+  {
+    "name": "mackerel",
+    "category": "fish",
+    "aliases": [
+      "mackerels",
+      "king mackerel",
+      "spanish mackerel"
+    ],
+    "fun_fact": "Mackerel can swim at speeds of up to 33 miles per hour."
+  },
+  {
+    "name": "swordfish",
+    "category": "fish",
+    "aliases": [
+      "swordfishes"
+    ],
+    "fun_fact": "A swordfish's bill can reach temperatures of up to 80°F warmer than surrounding water."
+  },
+  {
+    "name": "mahi mahi",
+    "category": "fish",
+    "aliases": [
+      "mahi-mahi",
+      "dorado",
+      "dolphinfish"
+    ],
+    "fun_fact": "Mahi mahi means 'strong strong' in Hawaiian."
+  },
+  {
+    "name": "snapper",
+    "category": "fish",
+    "aliases": [
+      "snappers",
+      "red snapper"
+    ],
+    "fun_fact": "Red snapper is so commonly mislabeled that studies found 73% of fish sold as snapper was something else."
+  },
+  {
+    "name": "grouper",
+    "category": "fish",
+    "aliases": [
+      "groupers"
+    ],
+    "fun_fact": "Some grouper species can change sex from female to male as they age."
+  },
+  {
+    "name": "catfish",
+    "category": "fish",
+    "aliases": [
+      "catfishes",
+      "catfishs",
+      "channel catfish"
+    ],
+    "fun_fact": "Catfish have over 100,000 taste buds — covering their entire body."
+  },
+  {
+    "name": "flounder",
+    "category": "fish",
+    "aliases": [
+      "flounders"
+    ],
+    "fun_fact": "Flounder are born with eyes on both sides but one eye migrates as they grow."
+  },
+  {
+    "name": "sole",
+    "category": "fish",
+    "aliases": [
+      "soles",
+      "dover sole",
+      "lemon sole"
+    ],
+    "fun_fact": "Dover sole was named after the English port of Dover where it was commonly landed."
+  },
+  {
+    "name": "haddock",
+    "category": "fish",
+    "aliases": [
+      "haddocks"
+    ],
+    "fun_fact": "Haddock has a distinctive dark blotch on each side called 'Saint Peter's thumbprint.'"
+  },
+  {
+    "name": "pollock",
+    "category": "fish",
+    "aliases": [
+      "pollocks",
+      "pollack",
+      "alaska pollock"
+    ],
+    "fun_fact": "Most imitation crab meat is actually made from pollock."
+  },
+  {
+    "name": "perch",
+    "category": "fish",
+    "aliases": [
+      "perches",
+      "yellow perch",
+      "ocean perch"
+    ],
+    "fun_fact": "Perch are one of the most widely distributed freshwater fish in North America."
+  },
+  {
+    "name": "pike",
+    "category": "fish",
+    "aliases": [
+      "pikes",
+      "northern pike",
+      "walleye"
+    ],
+    "fun_fact": "Northern pike can live over 25 years and have razor-sharp teeth."
+  },
+  {
+    "name": "monkfish",
+    "category": "fish",
+    "aliases": [
+      "monkfishes"
+    ],
+    "fun_fact": "Monkfish is called 'poor man's lobster' because its tail meat has a similar texture."
+  },
+  {
+    "name": "barramundi",
+    "category": "fish",
+    "aliases": [
+      "barramundis"
+    ],
+    "fun_fact": "Barramundi can change sex — they start as males and become females later in life."
+  },
+  {
+    "name": "branzino",
+    "category": "fish",
+    "aliases": [
+      "branzinos",
+      "european sea bass",
+      "loup de mer"
+    ],
+    "fun_fact": "Branzino is one of the most popular fish in Mediterranean cuisine."
+  },
+  {
+    "name": "eel",
+    "category": "fish",
+    "aliases": [
+      "eels",
+      "unagi",
+      "freshwater eel"
+    ],
+    "fun_fact": "No one has ever observed eels mating — their reproduction is one of nature's biggest mysteries."
+  },
+  {
+    "name": "herring",
+    "category": "fish",
+    "aliases": [
+      "herrings",
+      "kipper",
+      "kippers",
+      "pickled herring"
+    ],
+    "fun_fact": "Herring communicate by releasing bubbles from their rear end — scientists call it 'fast repetitive tick' sounds."
+  },
+  {
+    "name": "carp",
+    "category": "fish",
+    "aliases": [
+      "carps",
+      "common carp",
+      "koi"
+    ],
+    "fun_fact": "Koi fish are just selectively bred carp that can live over 200 years."
+  },
+  {
+    "name": "whitefish",
+    "category": "fish",
+    "aliases": [
+      "whitefishes",
+      "lake whitefish"
+    ],
+    "fun_fact": "Whitefish is one of the most popular smoked fish in Jewish delicatessen cuisine."
+  },
+  {
+    "name": "wahoo",
+    "category": "fish",
+    "aliases": [
+      "wahoos",
+      "ono"
+    ],
+    "fun_fact": "Wahoo can swim at speeds up to 60 mph, making it one of the fastest fish in the ocean."
+  },
+  {
+    "name": "arctic char",
+    "category": "fish",
+    "aliases": [
+      "arctic chars",
+      "char"
+    ],
+    "fun_fact": "Arctic char is the most northerly freshwater fish in the world."
+  },
+  {
+    "name": "bluefish",
+    "category": "fish",
+    "aliases": [
+      "bluefishes",
+      "bluefish fillets"
+    ],
+    "fun_fact": "Bluefish are such aggressive predators they sometimes keep killing even after they're full."
+  },
+  {
+    "name": "pompano",
+    "category": "fish",
+    "aliases": [
+      "pompanos",
+      "florida pompano"
+    ],
+    "fun_fact": "Pompano is considered one of the finest eating fish in the Gulf of Mexico."
+  },
+  {
+    "name": "skate",
+    "category": "fish",
+    "aliases": [
+      "skates",
+      "skate wing"
+    ],
+    "fun_fact": "Skate wings develop a better flavor a day or two after being caught."
+  },
+  {
+    "name": "turbot",
+    "category": "fish",
+    "aliases": [
+      "turbots"
+    ],
+    "fun_fact": "Turbot was so prized by the Romans that they had special diamond-shaped platters made for it."
+  },
+  {
+    "name": "john dory",
+    "category": "fish",
+    "aliases": [
+      "john dorys",
+      "st. peter's fish"
+    ],
+    "fun_fact": "John Dory has a distinctive dark spot on each side, said to be Saint Peter's thumbprint."
+  },
+  {
+    "name": "lingcod",
+    "category": "fish",
+    "aliases": [
+      "lingcods"
+    ],
+    "fun_fact": "Lingcod sometimes have bright blue or green flesh, which turns white when cooked."
+  },
+  {
+    "name": "opah",
+    "category": "fish",
+    "aliases": [
+      "opahs",
+      "moonfish"
+    ],
+    "fun_fact": "Opah is the only known fully warm-blooded fish."
+  },
+  {
+    "name": "sturgeon",
+    "category": "fish",
+    "aliases": [
+      "sturgeons",
+      "beluga sturgeon"
+    ],
+    "fun_fact": "Sturgeons have been around for over 200 million years — they're older than dinosaurs."
+  },
+  {
+    "name": "cobia",
+    "category": "fish",
+    "aliases": [
+      "cobias"
+    ],
+    "fun_fact": "Cobia have no swim bladder and must keep swimming to avoid sinking."
+  },
+  {
+    "name": "yellowtail",
+    "category": "fish",
+    "aliases": [
+      "yellowtails",
+      "hamachi",
+      "yellowtail amberjack"
+    ],
+    "fun_fact": "Yellowtail hamachi is the most popular sushi fish in Japan."
+  },
+  {
+    "name": "shrimp",
+    "category": "shellfish",
+    "aliases": [
+      "shrimps",
+      "prawn",
+      "prawns",
+      "jumbo shrimp"
+    ],
+    "fun_fact": "A shrimp's heart is in its head."
+  },
+  {
+    "name": "crab",
+    "category": "shellfish",
+    "aliases": [
+      "crabs",
+      "crab meat",
+      "crab legs",
+      "king crab",
+      "blue crab",
+      "dungeness crab",
+      "snow crab",
+      "stone crab"
+    ],
+    "fun_fact": "Crabs' teeth are in their stomachs."
+  },
+  {
+    "name": "lobster",
+    "category": "shellfish",
+    "aliases": [
+      "lobsters",
+      "maine lobster",
+      "rock lobster",
+      "langoustine",
+      "langoustines"
+    ],
+    "fun_fact": "Lobsters were once considered poverty food — prisoners and servants complained about eating them."
+  },
+  {
+    "name": "clam",
+    "category": "shellfish",
+    "aliases": [
+      "clams",
+      "littleneck",
+      "cherrystone",
+      "quahog",
+      "geoduck",
+      "manila clam"
+    ],
+    "fun_fact": "The oldest known animal ever was a clam named Ming, which lived to be 507 years old."
+  },
+  {
+    "name": "mussel",
+    "category": "shellfish",
+    "aliases": [
+      "mussels",
+      "green mussel",
+      "blue mussel"
+    ],
+    "fun_fact": "Mussels attach to surfaces using incredibly strong threads called byssal threads."
+  },
+  {
+    "name": "oyster",
+    "category": "shellfish",
+    "aliases": [
+      "oysters",
+      "pacific oyster",
+      "eastern oyster",
+      "kumamoto"
+    ],
+    "fun_fact": "A single oyster can filter up to 50 gallons of water per day."
+  },
+  {
+    "name": "scallop",
+    "category": "shellfish",
+    "aliases": [
+      "scallops",
+      "bay scallop",
+      "sea scallop",
+      "diver scallop"
+    ],
+    "fun_fact": "Scallops have up to 200 tiny eyes that can detect movement and light."
+  },
+  {
+    "name": "squid",
+    "category": "shellfish",
+    "aliases": [
+      "squids",
+      "calamari"
+    ],
+    "fun_fact": "Squid have three hearts and blue blood."
+  },
+  {
+    "name": "octopus",
+    "category": "shellfish",
+    "aliases": [
+      "octopuses",
+      "octopi",
+      "pulpo",
+      "tako"
+    ],
+    "fun_fact": "Octopuses have three hearts, nine brains, and blue blood."
+  },
+  {
+    "name": "crawfish",
+    "category": "shellfish",
+    "aliases": [
+      "crawfishes",
+      "crayfish",
+      "crawdad",
+      "crawdads",
+      "mudbug",
+      "mudbugs",
+      "yabby"
+    ],
+    "fun_fact": "Louisiana produces 90% of the crawfish consumed in the United States."
+  },
+  {
+    "name": "conch",
+    "category": "shellfish",
+    "aliases": [
+      "conchs",
+      "conch meat"
+    ],
+    "fun_fact": "Queen conch can live up to 30 years and grow shells up to 12 inches long."
+  },
+  {
+    "name": "abalone",
+    "category": "shellfish",
+    "aliases": [
+      "abalones"
+    ],
+    "fun_fact": "Abalone shells are lined with nacre (mother of pearl), one of the strongest natural materials."
+  },
+  {
+    "name": "sea urchin",
+    "category": "shellfish",
+    "aliases": [
+      "sea urchins",
+      "uni"
+    ],
+    "fun_fact": "Sea urchin 'meat' (uni) is actually the animal's reproductive organs."
+  },
+  {
+    "name": "whelk",
+    "category": "shellfish",
+    "aliases": [
+      "whelks"
+    ],
+    "fun_fact": "Whelks are predatory sea snails that drill holes through other shellfish to eat them."
+  },
+  {
+    "name": "periwinkle",
+    "category": "shellfish",
+    "aliases": [
+      "periwinkles"
+    ],
+    "fun_fact": "Periwinkles are tiny sea snails commonly eaten as street food in Europe and Africa."
+  },
+  {
+    "name": "cuttlefish",
+    "category": "shellfish",
+    "aliases": [
+      "cuttlefishes"
+    ],
+    "fun_fact": "Cuttlefish can change their skin color and texture in less than a second."
+  },
+  {
+    "name": "barnacle",
+    "category": "shellfish",
+    "aliases": [
+      "barnacles",
+      "goose barnacle",
+      "percebes"
+    ],
+    "fun_fact": "Percebes (goose barnacles) are a delicacy in Spain that sell for over $100 per pound."
+  },
+  {
+    "name": "cockle",
+    "category": "shellfish",
+    "aliases": [
+      "cockles"
+    ],
+    "fun_fact": "The phrase 'warming the cockles of your heart' refers to these heart-shaped shellfish."
+  },
+  {
+    "name": "razor clam",
+    "category": "shellfish",
+    "aliases": [
+      "razor clams"
+    ],
+    "fun_fact": "Razor clams can burrow into sand at a rate of about one centimeter per second."
+  },
+  {
+    "name": "langoustine",
+    "category": "shellfish",
+    "aliases": [
+      "langoustines",
+      "dublin bay prawn",
+      "norway lobster",
+      "scampi"
+    ],
+    "fun_fact": "Langoustines are what most of Europe calls 'scampi.'"
+  },
+  {
+    "name": "milk",
+    "category": "dairy",
+    "aliases": [
+      "milks",
+      "whole milk",
+      "skim milk",
+      "2% milk",
+      "buttermilk",
+      "raw milk"
+    ],
+    "fun_fact": "Milk is the only food designed specifically to be food."
+  },
+  {
+    "name": "cheese",
+    "category": "dairy",
+    "aliases": [
+      "cheeses"
+    ],
+    "fun_fact": "There are over 1,800 named varieties of cheese in the world."
+  },
+  {
+    "name": "cheddar",
+    "category": "dairy",
+    "aliases": [
+      "cheddars",
+      "cheddar cheese",
+      "sharp cheddar",
+      "mild cheddar"
+    ],
+    "fun_fact": "Cheddar cheese originated in the English village of Cheddar in Somerset."
+  },
+  {
+    "name": "mozzarella",
+    "category": "dairy",
+    "aliases": [
+      "mozzarellas",
+      "mozzarella cheese",
+      "fresh mozzarella",
+      "burrata"
+    ],
+    "fun_fact": "Real mozzarella di bufala is made from water buffalo milk, not cow's milk."
+  },
+  {
+    "name": "parmesan",
+    "category": "dairy",
+    "aliases": [
+      "parmesans",
+      "parmesan cheese",
+      "parmigiano reggiano",
+      "parmigiano"
+    ],
+    "fun_fact": "Authentic Parmigiano-Reggiano must be aged for at least 12 months."
+  },
+  {
+    "name": "brie",
+    "category": "dairy",
+    "aliases": [
+      "bries",
+      "brie cheese"
+    ],
+    "fun_fact": "Brie was called the 'king of cheeses' at a cheese competition in 1815."
+  },
+  {
+    "name": "gouda",
+    "category": "dairy",
+    "aliases": [
+      "goudas",
+      "gouda cheese",
+      "aged gouda"
+    ],
+    "fun_fact": "Gouda accounts for 50-60% of all cheese consumed in the world."
+  },
+  {
+    "name": "feta",
+    "category": "dairy",
+    "aliases": [
+      "fetas",
+      "feta cheese"
+    ],
+    "fun_fact": "Under EU law, only cheese made in Greece from sheep's and goat's milk can be called feta."
+  },
+  {
+    "name": "swiss cheese",
+    "category": "dairy",
+    "aliases": [
+      "swiss",
+      "emmental",
+      "emmentaler",
+      "gruyere",
+      "gruyère"
+    ],
+    "fun_fact": "The holes in Swiss cheese are caused by carbon dioxide released by bacteria during aging."
+  },
+  {
+    "name": "blue cheese",
+    "category": "dairy",
+    "aliases": [
+      "blue cheeses",
+      "bleu cheese",
+      "roquefort",
+      "gorgonzola",
+      "stilton"
+    ],
+    "fun_fact": "Blue cheese gets its distinctive veins from Penicillium mold — the same genus as the antibiotic."
+  },
+  {
+    "name": "cream cheese",
+    "category": "dairy",
+    "aliases": [
+      "cream cheeses",
+      "philadelphia"
+    ],
+    "fun_fact": "Cream cheese was invented by accident by an American dairyman in 1872."
+  },
+  {
+    "name": "ricotta",
+    "category": "dairy",
+    "aliases": [
+      "ricottas",
+      "ricotta cheese"
+    ],
+    "fun_fact": "Ricotta means 'recooked' — it's made from whey left over from other cheese production."
+  },
+  {
+    "name": "cottage cheese",
+    "category": "dairy",
+    "aliases": [
+      "cottage cheeses"
+    ],
+    "fun_fact": "Cottage cheese was likely the first cheese ever made in America."
+  },
+  {
+    "name": "goat cheese",
+    "category": "dairy",
+    "aliases": [
+      "goat cheeses",
+      "chevre",
+      "chèvre"
+    ],
+    "fun_fact": "Goat cheese is easier to digest than cow's milk cheese for many people."
+  },
+  {
+    "name": "mascarpone",
+    "category": "dairy",
+    "aliases": [
+      "mascarpones"
+    ],
+    "fun_fact": "Mascarpone is the key ingredient in tiramisu."
+  },
+  {
+    "name": "camembert",
+    "category": "dairy",
+    "aliases": [
+      "camemberts",
+      "camembert cheese"
+    ],
+    "fun_fact": "During World War I, camembert was issued to French soldiers as part of their rations."
+  },
+  {
+    "name": "halloumi",
+    "category": "dairy",
+    "aliases": [
+      "halloumis",
+      "haloumi"
+    ],
+    "fun_fact": "Halloumi has such a high melting point that you can grill or fry it like meat."
+  },
+  {
+    "name": "manchego",
+    "category": "dairy",
+    "aliases": [
+      "manchegos",
+      "manchego cheese"
+    ],
+    "fun_fact": "Authentic Manchego must be made from milk of Manchega sheep in La Mancha, Spain."
+  },
+  {
+    "name": "pecorino",
+    "category": "dairy",
+    "aliases": [
+      "pecorinos",
+      "pecorino romano"
+    ],
+    "fun_fact": "Pecorino Romano was part of the diet of Roman legionnaires 2,000 years ago."
+  },
+  {
+    "name": "provolone",
+    "category": "dairy",
+    "aliases": [
+      "provolones"
+    ],
+    "fun_fact": "Provolone is hung from the ceiling to age, which is why it's often pear-shaped."
+  },
+  {
+    "name": "butter",
+    "category": "dairy",
+    "aliases": [
+      "butters",
+      "unsalted butter",
+      "salted butter",
+      "clarified butter",
+      "ghee"
+    ],
+    "fun_fact": "It takes about 21 pounds of milk to make one pound of butter."
+  },
+  {
+    "name": "yogurt",
+    "category": "dairy",
+    "aliases": [
+      "yogurts",
+      "yoghurt",
+      "yoghurts",
+      "greek yogurt",
+      "kefir",
+      "skyr"
+    ],
+    "fun_fact": "Yogurt has been eaten for over 7,000 years."
+  },
+  {
+    "name": "cream",
+    "category": "dairy",
+    "aliases": [
+      "creams",
+      "heavy cream",
+      "whipping cream",
+      "double cream",
+      "clotted cream",
+      "sour cream",
+      "creme fraiche"
+    ],
+    "fun_fact": "Clotted cream is made by slowly heating cream until it forms thick golden clots."
+  },
+  {
+    "name": "whey",
+    "category": "dairy",
+    "aliases": [
+      "wheys",
+      "whey protein"
+    ],
+    "fun_fact": "Whey was once discarded as waste until bodybuilders popularized whey protein supplements."
+  },
+  {
+    "name": "paneer",
+    "category": "dairy",
+    "aliases": [
+      "paneers"
+    ],
+    "fun_fact": "Paneer doesn't melt because it's made by curdling milk with acid instead of rennet."
+  },
+  {
+    "name": "queso fresco",
+    "category": "dairy",
+    "aliases": [
+      "queso frescos",
+      "queso blanco"
+    ],
+    "fun_fact": "Queso fresco crumbles rather than melts, making it perfect as a topping."
+  },
+  {
+    "name": "havarti",
+    "category": "dairy",
+    "aliases": [
+      "havartis"
+    ],
+    "fun_fact": "Havarti was invented in the 1800s by Hanne Nielsen on her farm in Denmark."
+  },
+  {
+    "name": "muenster",
+    "category": "dairy",
+    "aliases": [
+      "muensters",
+      "munster"
+    ],
+    "fun_fact": "The orange rind on Muenster cheese is colored with annatto, a natural plant dye."
+  },
+  {
+    "name": "limburger",
+    "category": "dairy",
+    "aliases": [
+      "limburgers"
+    ],
+    "fun_fact": "Limburger is famous for its strong smell, which is caused by the same bacteria found on human skin."
+  },
+  {
+    "name": "asiago",
+    "category": "dairy",
+    "aliases": [
+      "asiagos",
+      "asiago cheese"
+    ],
+    "fun_fact": "Asiago has been made on the Asiago Plateau in Italy for over 1,000 years."
+  },
+  {
+    "name": "fontina",
+    "category": "dairy",
+    "aliases": [
+      "fontinas",
+      "fontina cheese"
+    ],
+    "fun_fact": "Fontina is one of Italy's great melting cheeses and is essential for fonduta."
+  },
+  {
+    "name": "chicken egg",
+    "category": "egg",
+    "aliases": [
+      "chicken eggs",
+      "egg",
+      "eggs",
+      "hen egg",
+      "hen eggs"
+    ],
+    "fun_fact": "A hen can lay about 300 eggs per year."
+  },
+  {
+    "name": "duck egg",
+    "category": "egg",
+    "aliases": [
+      "duck eggs"
+    ],
+    "fun_fact": "Duck eggs have nearly twice the nutritional value of chicken eggs."
+  },
+  {
+    "name": "quail egg",
+    "category": "egg",
+    "aliases": [
+      "quail eggs"
+    ],
+    "fun_fact": "Quail eggs are considered a remedy for allergies in several traditional medicine systems."
+  },
+  {
+    "name": "goose egg",
+    "category": "egg",
+    "aliases": [
+      "goose eggs"
+    ],
+    "fun_fact": "A single goose egg is equivalent to about three chicken eggs."
+  },
+  {
+    "name": "ostrich egg",
+    "category": "egg",
+    "aliases": [
+      "ostrich eggs"
+    ],
+    "fun_fact": "One ostrich egg equals about 24 chicken eggs and takes 2 hours to hard-boil."
+  },
+  {
+    "name": "turkey egg",
+    "category": "egg",
+    "aliases": [
+      "turkey eggs"
+    ],
+    "fun_fact": "Turkey eggs are edible and delicious but rarely sold because turkeys lay far fewer than chickens."
+  },
+  {
+    "name": "caviar",
+    "category": "egg",
+    "aliases": [
+      "caviars",
+      "fish eggs",
+      "fish roe",
+      "roe",
+      "tobiko",
+      "ikura",
+      "masago"
+    ],
+    "fun_fact": "Beluga caviar from the Caspian Sea can cost over $10,000 per kilogram."
+  },
+  {
+    "name": "basil",
+    "category": "herb",
+    "aliases": [
+      "basils",
+      "sweet basil",
+      "thai basil",
+      "holy basil"
+    ],
+    "fun_fact": "In Italy, basil is a symbol of love — suitors traditionally give basil to their beloved."
+  },
+  {
+    "name": "cilantro",
+    "category": "herb",
+    "aliases": [
+      "cilantros",
+      "coriander",
+      "coriander leaf",
+      "chinese parsley"
+    ],
+    "fun_fact": "About 14% of people have a gene that makes cilantro taste like soap."
+  },
+  {
+    "name": "parsley",
+    "category": "herb",
+    "aliases": [
+      "parsleys",
+      "flat leaf parsley",
+      "italian parsley",
+      "curly parsley"
+    ],
+    "fun_fact": "Ancient Greeks used parsley to crown victors of athletic competitions."
+  },
+  {
+    "name": "mint",
+    "category": "herb",
+    "aliases": [
+      "mints",
+      "peppermint",
+      "spearmint",
+      "mentha"
+    ],
+    "fun_fact": "Mint is so invasive that gardeners are advised to grow it in containers to prevent it from taking over."
+  },
+  {
+    "name": "dill",
+    "category": "herb",
+    "aliases": [
+      "dills"
+    ],
+    "fun_fact": "The word 'dill' comes from Old Norse 'dilla,' meaning 'to soothe.'"
+  },
+  {
+    "name": "rosemary",
+    "category": "herb",
+    "aliases": [
+      "rosemarys",
+      "rosemarys"
+    ],
+    "fun_fact": "Rosemary has been shown to improve memory — students in ancient Greece wore it during exams."
+  },
+  {
+    "name": "thyme",
+    "category": "herb",
+    "aliases": [
+      "thymes"
+    ],
+    "fun_fact": "Ancient Egyptians used thyme for embalming their dead."
+  },
+  {
+    "name": "sage",
+    "category": "herb",
+    "aliases": [
+      "sages",
+      "common sage"
+    ],
+    "fun_fact": "The name 'sage' comes from the Latin 'salvare,' meaning 'to save' or 'to heal.'"
+  },
+  {
+    "name": "oregano",
+    "category": "herb",
+    "aliases": [
+      "oreganos"
+    ],
+    "fun_fact": "Oregano only became popular in America after WWII soldiers brought a taste for it back from Italy."
+  },
+  {
+    "name": "chive",
+    "category": "herb",
+    "aliases": [
+      "chives"
+    ],
+    "fun_fact": "Chives are the only allium species found growing wild on three continents."
+  },
+  {
+    "name": "tarragon",
+    "category": "herb",
+    "aliases": [
+      "tarragons",
+      "french tarragon"
+    ],
+    "fun_fact": "Tarragon was used in medieval times as a cure for snake bites."
+  },
+  {
+    "name": "bay leaf",
+    "category": "herb",
+    "aliases": [
+      "bay leaves",
+      "laurel leaf",
+      "laurel leaves"
+    ],
+    "fun_fact": "Ancient Greeks and Romans crowned their heroes with wreaths of bay laurel leaves."
+  },
+  {
+    "name": "lemongrass",
+    "category": "herb",
+    "aliases": [
+      "lemongrasses",
+      "lemon grass"
+    ],
+    "fun_fact": "Lemongrass contains citral, the same compound that gives lemons their scent."
+  },
+  {
+    "name": "marjoram",
+    "category": "herb",
+    "aliases": [
+      "marjorams",
+      "sweet marjoram"
+    ],
+    "fun_fact": "Ancient Greeks believed marjoram was created by Aphrodite as a symbol of happiness."
+  },
+  {
+    "name": "lavender",
+    "category": "herb",
+    "aliases": [
+      "lavenders"
+    ],
+    "fun_fact": "Lavender comes from the Latin 'lavare,' meaning 'to wash' — Romans added it to bath water."
+  },
+  {
+    "name": "chamomile",
+    "category": "herb",
+    "aliases": [
+      "chamomiles",
+      "camomile"
+    ],
+    "fun_fact": "Chamomile tea is one of the most widely consumed herbal teas in the world."
+  },
+  {
+    "name": "lemon balm",
+    "category": "herb",
+    "aliases": [
+      "lemon balms",
+      "melissa"
+    ],
+    "fun_fact": "Lemon balm has been cultivated for over 2,000 years to attract honeybees."
+  },
+  {
+    "name": "savory",
+    "category": "herb",
+    "aliases": [
+      "savorys",
+      "summer savory",
+      "winter savory"
+    ],
+    "fun_fact": "Savory was used as a flavoring before pepper was widely available in Europe."
+  },
+  {
+    "name": "epazote",
+    "category": "herb",
+    "aliases": [
+      "epazotes"
+    ],
+    "fun_fact": "Epazote is added to beans in Mexican cooking because it's believed to reduce gas."
+  },
+  {
+    "name": "curry leaf",
+    "category": "herb",
+    "aliases": [
+      "curry leaves",
+      "kadi patta"
+    ],
+    "fun_fact": "Curry leaves are not related to curry powder — they're from a completely different plant."
+  },
+  {
+    "name": "shiso",
+    "category": "herb",
+    "aliases": [
+      "shisos",
+      "perilla",
+      "perilla leaf"
+    ],
+    "fun_fact": "Shiso comes in green and purple varieties and is a staple garnish in Japanese cuisine."
+  },
+  {
+    "name": "culantro",
+    "category": "herb",
+    "aliases": [
+      "culantros",
+      "sawtooth coriander",
+      "long coriander",
+      "ngo gai"
+    ],
+    "fun_fact": "Culantro looks nothing like cilantro but has 10 times stronger flavor."
+  },
+  {
+    "name": "woodruff",
+    "category": "herb",
+    "aliases": [
+      "sweet woodruff"
+    ],
+    "fun_fact": "Woodruff is used to flavor May wine and German Waldmeister ice cream."
+  },
+  {
+    "name": "borage",
+    "category": "herb",
+    "aliases": [
+      "borages"
+    ],
+    "fun_fact": "Borage flowers taste like cucumber and are used to garnish cocktails."
+  },
+  {
+    "name": "chervil",
+    "category": "herb",
+    "aliases": [
+      "chervils"
+    ],
+    "fun_fact": "Chervil is one of the four herbs in the classic French 'fines herbes' blend."
+  },
+  {
+    "name": "lovage",
+    "category": "herb",
+    "aliases": [
+      "lovages"
+    ],
+    "fun_fact": "Lovage tastes like a strong cross between celery and parsley."
+  },
+  {
+    "name": "black pepper",
+    "category": "spice",
+    "aliases": [
+      "black peppers",
+      "pepper",
+      "peppercorn",
+      "peppercorns"
+    ],
+    "fun_fact": "In medieval Europe, black pepper was so valuable it was used as currency."
+  },
+  {
+    "name": "cinnamon",
+    "category": "spice",
+    "aliases": [
+      "cinnamons",
+      "ceylon cinnamon",
+      "cassia"
+    ],
+    "fun_fact": "Most 'cinnamon' sold in stores is actually cassia, a related but cheaper spice."
+  },
+  {
+    "name": "turmeric",
+    "category": "spice",
+    "aliases": [
+      "turmerics",
+      "tumeric",
+      "haldi"
+    ],
+    "fun_fact": "Turmeric's bright yellow color has been used as a fabric dye for centuries."
+  },
+  {
+    "name": "cumin",
+    "category": "spice",
+    "aliases": [
+      "cumins",
+      "jeera"
+    ],
+    "fun_fact": "Cumin seeds have been found in ancient Syrian archaeological sites dating back 4,000 years."
+  },
+  {
+    "name": "paprika",
+    "category": "spice",
+    "aliases": [
+      "paprikas",
+      "smoked paprika",
+      "sweet paprika",
+      "hot paprika"
+    ],
+    "fun_fact": "Paprika is the national spice of Hungary and is central to dishes like goulash."
+  },
+  {
+    "name": "ginger",
+    "category": "spice",
+    "aliases": [
+      "gingers",
+      "ground ginger",
+      "ginger powder"
+    ],
+    "fun_fact": "Ginger can help reduce nausea and has been used as a natural remedy for motion sickness."
+  },
+  {
+    "name": "nutmeg",
+    "category": "spice",
+    "aliases": [
+      "nutmegs"
+    ],
+    "fun_fact": "In the 1600s, nutmeg was so valuable that control of nutmeg islands sparked wars."
+  },
+  {
+    "name": "clove",
+    "category": "spice",
+    "aliases": [
+      "cloves",
+      "clovs"
+    ],
+    "fun_fact": "Cloves contain eugenol, a natural anesthetic — chewing one can numb a toothache."
+  },
+  {
+    "name": "cardamom",
+    "category": "spice",
+    "aliases": [
+      "cardamoms",
+      "cardamum",
+      "elaichi"
+    ],
+    "fun_fact": "Cardamom is the third most expensive spice in the world, after saffron and vanilla."
+  },
+  {
+    "name": "saffron",
+    "category": "spice",
+    "aliases": [
+      "saffrons"
+    ],
+    "fun_fact": "Saffron is the world's most expensive spice — it takes 75,000 flowers to make one pound."
+  },
+  {
+    "name": "vanilla",
+    "category": "spice",
+    "aliases": [
+      "vanillas",
+      "vanilla bean",
+      "vanilla beans",
+      "vanilla extract"
+    ],
+    "fun_fact": "Vanilla is the only edible fruit of the orchid family."
+  },
+  {
+    "name": "coriander",
+    "category": "spice",
+    "aliases": [
+      "corianders",
+      "coriander powder",
+      "coriander seed"
+    ],
+    "fun_fact": "Coriander seeds and cilantro leaves come from the same plant but taste completely different."
+  },
+  {
+    "name": "chili powder",
+    "category": "spice",
+    "aliases": [
+      "chili powders",
+      "chile powder"
+    ],
+    "fun_fact": "Chili powder is actually a blend of spices, not just ground chilies."
+  },
+  {
+    "name": "cayenne",
+    "category": "spice",
+    "aliases": [
+      "cayennes",
+      "cayenne pepper"
+    ],
+    "fun_fact": "Cayenne pepper can temporarily boost metabolism by up to 20%."
+  },
+  {
+    "name": "allspice",
+    "category": "spice",
+    "aliases": [
+      "allspices"
+    ],
+    "fun_fact": "Allspice is a single spice that tastes like a combination of cinnamon, nutmeg, and cloves."
+  },
+  {
+    "name": "star anise",
+    "category": "spice",
+    "aliases": [
+      "star anises"
+    ],
+    "fun_fact": "Star anise is the source of shikimic acid, a key ingredient in the flu medication Tamiflu."
+  },
+  {
+    "name": "fenugreek",
+    "category": "spice",
+    "aliases": [
+      "fenugreeks",
+      "methi"
+    ],
+    "fun_fact": "Eating fenugreek can make your sweat and urine smell like maple syrup."
+  },
+  {
+    "name": "sumac",
+    "category": "spice",
+    "aliases": [
+      "sumacs"
+    ],
+    "fun_fact": "Sumac was used as a souring agent in the Middle East long before lemons arrived from Asia."
+  },
+  {
+    "name": "za'atar",
+    "category": "spice",
+    "aliases": [
+      "zaatar",
+      "zatar"
+    ],
+    "fun_fact": "Za'atar is a blend of herbs and spices that has been eaten in the Middle East since ancient times."
+  },
+  {
+    "name": "five spice",
+    "category": "spice",
+    "aliases": [
+      "five spice powder",
+      "chinese five spice"
+    ],
+    "fun_fact": "Chinese five spice is designed to balance all five flavors: sweet, sour, bitter, salty, and umami."
+  },
+  {
+    "name": "mace",
+    "category": "spice",
+    "aliases": [
+      "maces"
+    ],
+    "fun_fact": "Mace is the lacy red covering that surrounds the nutmeg seed — they're from the same fruit."
+  },
+  {
+    "name": "juniper berry",
+    "category": "spice",
+    "aliases": [
+      "juniper berries"
+    ],
+    "fun_fact": "Juniper berries are the key flavoring ingredient in gin."
+  },
+  {
+    "name": "annatto",
+    "category": "spice",
+    "aliases": [
+      "annattos",
+      "achiote"
+    ],
+    "fun_fact": "Annatto gives Cheddar cheese, Velveeta, and even some butters their orange-yellow color."
+  },
+  {
+    "name": "grains of paradise",
+    "category": "spice",
+    "aliases": [
+      "grains of paradice",
+      "melegueta pepper"
+    ],
+    "fun_fact": "Grains of paradise were once used to flavor beer in medieval Europe before hops took over."
+  },
+  {
+    "name": "asafoetida",
+    "category": "spice",
+    "aliases": [
+      "asafetida",
+      "hing"
+    ],
+    "fun_fact": "Asafoetida smells terrible raw but becomes savory and onion-like when cooked."
+  },
+  {
+    "name": "szechuan pepper",
+    "category": "spice",
+    "aliases": [
+      "szechuan peppercorn",
+      "sichuan pepper",
+      "sichuan peppercorn"
+    ],
+    "fun_fact": "Szechuan pepper creates a tingling, numbing sensation rather than heat."
+  },
+  {
+    "name": "white pepper",
+    "category": "spice",
+    "aliases": [
+      "white peppers",
+      "white peppercorn"
+    ],
+    "fun_fact": "White pepper is just black pepper with the outer layer removed."
+  },
+  {
+    "name": "pink peppercorn",
+    "category": "spice",
+    "aliases": [
+      "pink peppercorns"
+    ],
+    "fun_fact": "Pink peppercorns aren't actually pepper — they're berries from a South American tree."
+  },
+  {
+    "name": "anise",
+    "category": "spice",
+    "aliases": [
+      "anises",
+      "aniseed"
+    ],
+    "fun_fact": "Anise is the flavor behind licorice, absinthe, and ouzo."
+  },
+  {
+    "name": "mustard powder",
+    "category": "spice",
+    "aliases": [
+      "mustard powders",
+      "dry mustard",
+      "ground mustard"
+    ],
+    "fun_fact": "Mustard is one of the oldest known spices, with evidence of use dating back 5,000 years."
+  },
+  {
+    "name": "celery seed",
+    "category": "spice",
+    "aliases": [
+      "celery seeds",
+      "celery salt"
+    ],
+    "fun_fact": "Celery seed is a key ingredient in Old Bay seasoning."
+  },
+  {
+    "name": "olive oil",
+    "category": "oil",
+    "aliases": [
+      "olive oils",
+      "extra virgin olive oil",
+      "EVOO",
+      "virgin olive oil"
+    ],
+    "fun_fact": "It takes about 1,500 olives to make one liter of olive oil."
+  },
+  {
+    "name": "coconut oil",
+    "category": "oil",
+    "aliases": [
+      "coconut oils"
+    ],
+    "fun_fact": "Coconut oil is one of the few plant-based sources of saturated fat."
+  },
+  {
+    "name": "sesame oil",
+    "category": "oil",
+    "aliases": [
+      "sesame oils",
+      "toasted sesame oil"
+    ],
+    "fun_fact": "Sesame oil was used as a cooking oil in ancient Babylon over 4,000 years ago."
+  },
+  {
+    "name": "avocado oil",
+    "category": "oil",
+    "aliases": [
+      "avocado oils"
+    ],
+    "fun_fact": "Avocado oil has the highest smoke point of any unrefined oil."
+  },
+  {
+    "name": "peanut oil",
+    "category": "oil",
+    "aliases": [
+      "peanut oils",
+      "groundnut oil"
+    ],
+    "fun_fact": "Peanut oil is popular for deep frying because it doesn't absorb flavors from food."
+  },
+  {
+    "name": "walnut oil",
+    "category": "oil",
+    "aliases": [
+      "walnut oils"
+    ],
+    "fun_fact": "Walnut oil was used by Renaissance painters like Leonardo da Vinci to thin paint."
+  },
+  {
+    "name": "flaxseed oil",
+    "category": "oil",
+    "aliases": [
+      "flaxseed oils",
+      "linseed oil"
+    ],
+    "fun_fact": "Flaxseed oil has the highest omega-3 content of any plant oil."
+  },
+  {
+    "name": "truffle oil",
+    "category": "oil",
+    "aliases": [
+      "truffle oils"
+    ],
+    "fun_fact": "Most truffle oil contains no actual truffles — it's made with a synthetic chemical."
+  },
+  {
+    "name": "hemp oil",
+    "category": "oil",
+    "aliases": [
+      "hemp oils",
+      "hemp seed oil"
+    ],
+    "fun_fact": "Hemp oil has the ideal 3:1 ratio of omega-6 to omega-3 fatty acids."
+  },
+  {
+    "name": "macadamia oil",
+    "category": "oil",
+    "aliases": [
+      "macadamia oils"
+    ],
+    "fun_fact": "Macadamia oil has the highest monounsaturated fat content of any oil."
+  },
+  {
+    "name": "honey",
+    "category": "sweetener",
+    "aliases": [
+      "honeys",
+      "raw honey",
+      "manuka honey",
+      "wildflower honey"
+    ],
+    "fun_fact": "Honey never spoils — 3,000-year-old honey from Egyptian tombs was still edible."
+  },
+  {
+    "name": "maple syrup",
+    "category": "sweetener",
+    "aliases": [
+      "maple syrups",
+      "maple syrop"
+    ],
+    "fun_fact": "It takes about 40 gallons of maple sap to make just one gallon of maple syrup."
+  },
+  {
+    "name": "agave",
+    "category": "sweetener",
+    "aliases": [
+      "agaves",
+      "agave nectar",
+      "agave syrup"
+    ],
+    "fun_fact": "Agave is the same plant used to make tequila."
+  },
+  {
+    "name": "molasses",
+    "category": "sweetener",
+    "aliases": [
+      "molassess",
+      "blackstrap molasses",
+      "treacle"
+    ],
+    "fun_fact": "The Great Molasses Flood of 1919 killed 21 people when a tank burst in Boston."
+  },
+  {
+    "name": "coconut sugar",
+    "category": "sweetener",
+    "aliases": [
+      "coconut sugars",
+      "palm sugar",
+      "coconut palm sugar"
+    ],
+    "fun_fact": "Coconut sugar comes from the sap of coconut flower buds, not the coconut itself."
+  },
+  {
+    "name": "date syrup",
+    "category": "sweetener",
+    "aliases": [
+      "date syrups",
+      "date molasses",
+      "silan"
+    ],
+    "fun_fact": "Date syrup has been used as a sweetener in the Middle East for over 5,000 years."
+  },
+  {
+    "name": "stevia",
+    "category": "sweetener",
+    "aliases": [
+      "stevias",
+      "stevia leaf"
+    ],
+    "fun_fact": "Stevia is up to 300 times sweeter than sugar but has zero calories."
+  },
+  {
+    "name": "monk fruit",
+    "category": "sweetener",
+    "aliases": [
+      "monk fruits",
+      "luo han guo"
+    ],
+    "fun_fact": "Monk fruit has been used as a sweetener in China for hundreds of years."
+  },
+  {
+    "name": "brown rice syrup",
+    "category": "sweetener",
+    "aliases": [
+      "brown rice syrups",
+      "rice syrup",
+      "rice malt"
+    ],
+    "fun_fact": "Brown rice syrup is made by breaking down the starch in cooked rice with enzymes."
+  },
+  {
+    "name": "birch syrup",
+    "category": "sweetener",
+    "aliases": [
+      "birch syrups"
+    ],
+    "fun_fact": "Birch syrup requires 100 gallons of sap to make one gallon — 2.5x more than maple."
+  },
+  {
+    "name": "muscovado sugar",
+    "category": "sweetener",
+    "aliases": [
+      "muscovado sugars",
+      "muscovado"
+    ],
+    "fun_fact": "Muscovado is the least refined form of cane sugar, retaining all its original molasses."
+  },
+  {
+    "name": "jaggery",
+    "category": "sweetener",
+    "aliases": [
+      "jaggerys",
+      "gur",
+      "panela",
+      "piloncillo"
+    ],
+    "fun_fact": "Jaggery is unrefined cane sugar used across South Asia, Africa, and Latin America."
+  },
+  {
+    "name": "kimchi",
+    "category": "fermented",
+    "aliases": [
+      "kimchis",
+      "kimchee"
+    ],
+    "fun_fact": "There are over 200 varieties of kimchi in Korea."
+  },
+  {
+    "name": "sauerkraut",
+    "category": "fermented",
+    "aliases": [
+      "sauerkrauts"
+    ],
+    "fun_fact": "Sauerkraut was brought on long sea voyages to prevent scurvy — it's rich in vitamin C."
+  },
+  {
+    "name": "miso",
+    "category": "fermented",
+    "aliases": [
+      "misos",
+      "miso paste"
+    ],
+    "fun_fact": "Some miso pastes are aged for over three years to develop deep, complex flavors."
+  },
+  {
+    "name": "tempeh",
+    "category": "fermented",
+    "aliases": [
+      "tempehs",
+      "temphe"
+    ],
+    "fun_fact": "Tempeh originated in Java, Indonesia, over 300 years ago."
+  },
+  {
+    "name": "kombucha",
+    "category": "fermented",
+    "aliases": [
+      "kombuchas"
+    ],
+    "fun_fact": "Kombucha is fermented using a SCOBY — a symbiotic culture of bacteria and yeast."
+  },
+  {
+    "name": "tofu",
+    "category": "fermented",
+    "aliases": [
+      "tofus",
+      "bean curd",
+      "silken tofu",
+      "firm tofu"
+    ],
+    "fun_fact": "Tofu was invented in China over 2,000 years ago, possibly by accident."
+  },
+  {
+    "name": "soy sauce",
+    "category": "fermented",
+    "aliases": [
+      "soy sauces",
+      "shoyu",
+      "tamari"
+    ],
+    "fun_fact": "Traditional soy sauce takes 6 months to 2 years to ferment."
+  },
+  {
+    "name": "fish sauce",
+    "category": "fermented",
+    "aliases": [
+      "fish sauces",
+      "nam pla",
+      "nuoc mam"
+    ],
+    "fun_fact": "Ancient Romans had their own version of fish sauce called 'garum.'"
+  },
+  {
+    "name": "natto",
+    "category": "fermented",
+    "aliases": [
+      "nattos"
+    ],
+    "fun_fact": "Natto is so sticky that it forms long, stringy threads when pulled apart."
+  },
+  {
+    "name": "kefir",
+    "category": "fermented",
+    "aliases": [
+      "kefirs",
+      "water kefir"
+    ],
+    "fun_fact": "Kefir grains are not actually grains — they're living symbiotic cultures."
+  },
+  {
+    "name": "sourdough",
+    "category": "fermented",
+    "aliases": [
+      "sourdoughs",
+      "sourdough bread",
+      "sourdough starter"
+    ],
+    "fun_fact": "Some sourdough starters have been kept alive and fed for over 100 years."
+  },
+  {
+    "name": "pickles",
+    "category": "fermented",
+    "aliases": [
+      "pickle",
+      "gherkin",
+      "gherkins",
+      "dill pickle",
+      "dill pickles"
+    ],
+    "fun_fact": "Cleopatra attributed her beauty to eating pickles."
+  },
+  {
+    "name": "vinegar",
+    "category": "fermented",
+    "aliases": [
+      "vinegars",
+      "apple cider vinegar",
+      "balsamic vinegar",
+      "rice vinegar",
+      "red wine vinegar"
+    ],
+    "fun_fact": "Balsamic vinegar from Modena can be aged for over 25 years."
+  },
+  {
+    "name": "yogurt",
+    "category": "fermented",
+    "aliases": [
+      "yogurts",
+      "yoghurt",
+      "leben",
+      "lassi"
+    ],
+    "fun_fact": "The word 'yogurt' comes from Turkish and means 'to thicken.'"
+  },
+  {
+    "name": "preserved lemon",
+    "category": "fermented",
+    "aliases": [
+      "preserved lemons",
+      "lemon confit"
+    ],
+    "fun_fact": "Preserved lemons are a staple in Moroccan cuisine, adding intense citrus flavor."
+  },
+  {
+    "name": "injera",
+    "category": "fermented",
+    "aliases": [
+      "injeras"
+    ],
+    "fun_fact": "Injera bread is naturally fermented for 2-3 days, giving it a slightly sour taste."
+  },
+  {
+    "name": "kvass",
+    "category": "fermented",
+    "aliases": [
+      "kvasses"
+    ],
+    "fun_fact": "Kvass is a fermented bread drink that's been popular in Russia for over 1,000 years."
+  },
+  {
+    "name": "tepache",
+    "category": "fermented",
+    "aliases": [
+      "tepaches"
+    ],
+    "fun_fact": "Tepache is a Mexican fermented drink made from pineapple rinds and spices."
+  },
+  {
+    "name": "button mushroom",
+    "category": "fungi",
+    "aliases": [
+      "button mushrooms",
+      "white mushroom",
+      "white mushrooms",
+      "cremini",
+      "creminis",
+      "baby bella",
+      "baby bellas"
+    ],
+    "fun_fact": "Button mushrooms, cremini, and portobello are all the same species at different stages of growth."
+  },
+  {
+    "name": "portobello",
+    "category": "fungi",
+    "aliases": [
+      "portobellos",
+      "portobella",
+      "portobello mushroom"
+    ],
+    "fun_fact": "Portobellos are just mature cremini mushrooms that have been allowed to grow larger."
+  },
+  {
+    "name": "shiitake",
+    "category": "fungi",
+    "aliases": [
+      "shiitakes",
+      "shiitake mushroom",
+      "shiitake mushrooms"
+    ],
+    "fun_fact": "Shiitake mushrooms have been cultivated in Japan for over 1,000 years."
+  },
+  {
+    "name": "oyster mushroom",
+    "category": "fungi",
+    "aliases": [
+      "oyster mushrooms"
+    ],
+    "fun_fact": "Oyster mushrooms are one of the few carnivorous mushrooms — they trap and digest tiny worms."
+  },
+  {
+    "name": "chanterelle",
+    "category": "fungi",
+    "aliases": [
+      "chanterelles"
+    ],
+    "fun_fact": "Chanterelles cannot be commercially cultivated — they must be wild foraged."
+  },
+  {
+    "name": "porcini",
+    "category": "fungi",
+    "aliases": [
+      "porcinis",
+      "porcini mushroom",
+      "cep",
+      "ceps",
+      "penny bun"
+    ],
+    "fun_fact": "Porcini means 'little pigs' in Italian."
+  },
+  {
+    "name": "morel",
+    "category": "fungi",
+    "aliases": [
+      "morels",
+      "morel mushroom"
+    ],
+    "fun_fact": "Morels appear only in spring and can sell for over $30 per pound."
+  },
+  {
+    "name": "truffle",
+    "category": "fungi",
+    "aliases": [
+      "truffles",
+      "black truffle",
+      "white truffle",
+      "truffle mushroom"
+    ],
+    "fun_fact": "White truffles from Alba, Italy, have sold for over $300,000 at auction."
+  },
+  {
+    "name": "enoki",
+    "category": "fungi",
+    "aliases": [
+      "enokis",
+      "enoki mushroom",
+      "enoki mushrooms"
+    ],
+    "fun_fact": "Wild enoki mushrooms look completely different from the cultivated ones sold in stores."
+  },
+  {
+    "name": "maitake",
+    "category": "fungi",
+    "aliases": [
+      "maitakes",
+      "maitake mushroom",
+      "hen of the woods"
+    ],
+    "fun_fact": "Maitake means 'dancing mushroom' — foragers supposedly danced with joy upon finding them."
+  },
+  {
+    "name": "king trumpet",
+    "category": "fungi",
+    "aliases": [
+      "king trumpet mushroom",
+      "king trumpets",
+      "king oyster",
+      "eryngii"
+    ],
+    "fun_fact": "King trumpet mushrooms are the largest species in the oyster mushroom family."
+  },
+  {
+    "name": "lions mane",
+    "category": "fungi",
+    "aliases": [
+      "lions manes",
+      "lion's mane",
+      "lion's mane mushroom",
+      "hericium"
+    ],
+    "fun_fact": "Lion's mane mushroom may stimulate nerve growth factor production in the brain."
+  },
+  {
+    "name": "wood ear",
+    "category": "fungi",
+    "aliases": [
+      "wood ears",
+      "wood ear mushroom",
+      "black fungus",
+      "cloud ear"
+    ],
+    "fun_fact": "Wood ear mushrooms are used in traditional Chinese medicine to improve blood circulation."
+  },
+  {
+    "name": "matsutake",
+    "category": "fungi",
+    "aliases": [
+      "matsutakes",
+      "matsutake mushroom"
+    ],
+    "fun_fact": "Matsutake mushrooms are so prized in Japan they're given as luxury gifts."
+  },
+  {
+    "name": "reishi",
+    "category": "fungi",
+    "aliases": [
+      "reishis",
+      "reishi mushroom",
+      "lingzhi"
+    ],
+    "fun_fact": "Reishi is called the 'mushroom of immortality' in traditional Chinese medicine."
+  },
+  {
+    "name": "chaga",
+    "category": "fungi",
+    "aliases": [
+      "chagas",
+      "chaga mushroom"
+    ],
+    "fun_fact": "Chaga looks like a chunk of burnt charcoal growing on birch trees."
+  },
+  {
+    "name": "hedgehog mushroom",
+    "category": "fungi",
+    "aliases": [
+      "hedgehog mushrooms",
+      "pied de mouton"
+    ],
+    "fun_fact": "Hedgehog mushrooms have tiny spines instead of gills underneath their caps."
+  },
+  {
+    "name": "black trumpet",
+    "category": "fungi",
+    "aliases": [
+      "black trumpets",
+      "horn of plenty"
+    ],
+    "fun_fact": "Black trumpet mushrooms are also called 'trompette de la mort' (trumpet of death) despite being delicious."
+  },
+  {
+    "name": "nori",
+    "category": "seaweed",
+    "aliases": [
+      "noris"
+    ],
+    "fun_fact": "Nori was so valuable in ancient Japan that it was accepted as tax payment."
+  },
+  {
+    "name": "kelp",
+    "category": "seaweed",
+    "aliases": [
+      "kelps",
+      "giant kelp",
+      "bull kelp"
+    ],
+    "fun_fact": "Giant kelp can grow up to 2 feet per day, making it one of the fastest-growing organisms."
+  },
+  {
+    "name": "wakame",
+    "category": "seaweed",
+    "aliases": [
+      "wakames"
+    ],
+    "fun_fact": "Wakame is considered an invasive species in many countries outside Asia."
+  },
+  {
+    "name": "dulse",
+    "category": "seaweed",
+    "aliases": [
+      "dulses"
+    ],
+    "fun_fact": "When fried, dulse tastes remarkably similar to bacon."
+  },
+  {
+    "name": "spirulina",
+    "category": "seaweed",
+    "aliases": [
+      "spirulinas"
+    ],
+    "fun_fact": "Spirulina was a dietary staple of the Aztecs and is now studied as food for astronauts."
+  },
+  {
+    "name": "chlorella",
+    "category": "seaweed",
+    "aliases": [
+      "chlorellas"
+    ],
+    "fun_fact": "Chlorella reproduces so quickly it can quadruple its cell count in less than a day."
+  },
+  {
+    "name": "kombu",
+    "category": "seaweed",
+    "aliases": [
+      "kombus",
+      "konbu"
+    ],
+    "fun_fact": "Kombu is naturally rich in glutamate, which is why it's used to make dashi broth so savory."
+  },
+  {
+    "name": "hijiki",
+    "category": "seaweed",
+    "aliases": [
+      "hijikis"
+    ],
+    "fun_fact": "Hijiki has been a part of the Japanese diet for centuries and is traditionally served on holidays."
+  },
+  {
+    "name": "irish moss",
+    "category": "seaweed",
+    "aliases": [
+      "irish mosses",
+      "carrageen",
+      "sea moss"
+    ],
+    "fun_fact": "Irish moss produces carrageenan, a thickener found in everything from ice cream to toothpaste."
+  },
+  {
+    "name": "agar",
+    "category": "seaweed",
+    "aliases": [
+      "agars",
+      "agar agar",
+      "kanten"
+    ],
+    "fun_fact": "Agar is used as a vegetarian substitute for gelatin and was discovered by accident in Japan in the 1650s."
+  },
+  {
+    "name": "arame",
+    "category": "seaweed",
+    "aliases": [
+      "arames"
+    ],
+    "fun_fact": "Arame has a mild, semi-sweet flavor that makes it one of the most approachable seaweeds."
+  },
+  {
+    "name": "sea lettuce",
+    "category": "seaweed",
+    "aliases": [
+      "sea lettuces",
+      "ulva"
+    ],
+    "fun_fact": "Sea lettuce is one of the most widely distributed seaweeds, found on every ocean coast."
+  },
+  {
+    "name": "tea",
+    "category": "beverage",
+    "aliases": [
+      "teas",
+      "green tea",
+      "black tea",
+      "white tea",
+      "oolong",
+      "herbal tea",
+      "chai",
+      "matcha",
+      "earl grey",
+      "english breakfast"
+    ],
+    "fun_fact": "All true tea comes from the same plant — Camellia sinensis."
+  },
+  {
+    "name": "coffee",
+    "category": "beverage",
+    "aliases": [
+      "coffees",
+      "espresso",
+      "cappuccino",
+      "latte",
+      "americano",
+      "cold brew",
+      "drip coffee"
+    ],
+    "fun_fact": "Coffee was discovered by an Ethiopian goat herder who noticed his goats dancing after eating coffee berries."
+  },
+  {
+    "name": "cocoa",
+    "category": "beverage",
+    "aliases": [
+      "hot chocolate",
+      "hot cocoa",
+      "drinking chocolate",
+      "cacao drink"
+    ],
+    "fun_fact": "The Aztecs drank chocolate as a bitter, spicy beverage — sugar was added later by Europeans."
+  },
+  {
+    "name": "orange juice",
+    "category": "beverage",
+    "aliases": [
+      "oj",
+      "fresh squeezed orange juice"
+    ],
+    "fun_fact": "Florida produces about 70% of the United States' total orange juice supply."
+  },
+  {
+    "name": "apple juice",
+    "category": "beverage",
+    "aliases": [
+      "apple juices",
+      "apple cider"
+    ],
+    "fun_fact": "Unpasteurized apple cider was one of the most popular beverages in colonial America."
+  },
+  {
+    "name": "lemonade",
+    "category": "beverage",
+    "aliases": [
+      "lemonades"
+    ],
+    "fun_fact": "The first recorded lemonade was sold in Paris in 1630 as a mix of sparkling water, lemon juice, and honey."
+  },
+  {
+    "name": "coconut water",
+    "category": "beverage",
+    "aliases": [
+      "coconut waters"
+    ],
+    "fun_fact": "Coconut water is sterile inside the coconut and was used as IV fluid in emergencies."
+  },
+  {
+    "name": "pomegranate juice",
+    "category": "beverage",
+    "aliases": [
+      "pomegranate juices"
+    ],
+    "fun_fact": "Pomegranate juice has more antioxidants than red wine or green tea."
+  },
+  {
+    "name": "cranberry juice",
+    "category": "beverage",
+    "aliases": [
+      "cranberry juices"
+    ],
+    "fun_fact": "Native Americans used cranberries to dye fabric and as a poultice for wounds."
+  },
+  {
+    "name": "ginger beer",
+    "category": "beverage",
+    "aliases": [
+      "ginger beers",
+      "ginger ale"
+    ],
+    "fun_fact": "Original ginger beer was actually alcoholic — the modern soft drink version came later."
+  },
+  {
+    "name": "horchata",
+    "category": "beverage",
+    "aliases": [
+      "horchatas"
+    ],
+    "fun_fact": "Horchata varies by country — in Mexico it's made from rice, in Spain from tiger nuts."
+  },
+  {
+    "name": "yerba mate",
+    "category": "beverage",
+    "aliases": [
+      "yerba mates",
+      "mate",
+      "maté"
+    ],
+    "fun_fact": "Yerba mate contains caffeine and is traditionally shared from a single gourd with a metal straw."
+  },
+  {
+    "name": "rooibos",
+    "category": "beverage",
+    "aliases": [
+      "rooibos tea",
+      "red bush tea",
+      "redbush"
+    ],
+    "fun_fact": "Rooibos only grows in a small region of South Africa and nowhere else on Earth."
+  },
+  {
+    "name": "hibiscus tea",
+    "category": "beverage",
+    "aliases": [
+      "hibiscus teas",
+      "agua de jamaica",
+      "roselle"
+    ],
+    "fun_fact": "Hibiscus tea is bright red, naturally tart, and drunk across dozens of cultures worldwide."
+  },
+  {
+    "name": "beet juice",
+    "category": "beverage",
+    "aliases": [
+      "beet juices",
+      "beetroot juice"
+    ],
+    "fun_fact": "Beet juice can temporarily improve athletic performance by up to 3%."
+  },
+  {
+    "name": "wheatgrass juice",
+    "category": "beverage",
+    "aliases": [
+      "wheatgrass juices",
+      "wheatgrass"
+    ],
+    "fun_fact": "One ounce of wheatgrass juice is nutritionally equivalent to about 2.5 pounds of vegetables."
+  },
+  {
+    "name": "bone broth",
+    "category": "beverage",
+    "aliases": [
+      "bone broths"
+    ],
+    "fun_fact": "Bone broth has been a staple of traditional diets for thousands of years across virtually every culture."
+  },
+  {
+    "name": "tallow",
+    "category": "oil",
+    "aliases": [
+      "tallows",
+      "beef tallow",
+      "beef fat",
+      "suet",
+      "dripping"
+    ],
+    "fun_fact": "Tallow was the primary cooking fat for thousands of years before seed oils were invented in the 1900s."
+  },
+  {
+    "name": "lard",
+    "category": "oil",
+    "aliases": [
+      "lards",
+      "pig fat",
+      "pork fat",
+      "pork lard",
+      "leaf lard"
+    ],
+    "fun_fact": "Lard has more monounsaturated fat than butter and was the most popular cooking fat in America until Crisco appeared."
+  },
+  {
+    "name": "ghee",
+    "category": "oil",
+    "aliases": [
+      "ghees",
+      "clarified butter",
+      "drawn butter"
+    ],
+    "fun_fact": "Ghee has been used in Indian cooking and Ayurvedic medicine for over 5,000 years."
+  },
+  {
+    "name": "duck fat",
+    "category": "oil",
+    "aliases": [
+      "duck fats",
+      "rendered duck fat"
+    ],
+    "fun_fact": "French fries were traditionally cooked in duck fat in Belgium, which is where they actually originate."
+  },
+  {
+    "name": "schmaltz",
+    "category": "oil",
+    "aliases": [
+      "schmalz",
+      "rendered chicken fat",
+      "chicken fat"
+    ],
+    "fun_fact": "Schmaltz was the primary cooking fat in Eastern European Jewish cuisine for centuries."
+  },
+  {
+    "name": "goose fat",
+    "category": "oil",
+    "aliases": [
+      "goose fats",
+      "rendered goose fat"
+    ],
+    "fun_fact": "Goose fat has been prized in French cooking for centuries, especially for confit and roast potatoes."
+  }
+]
