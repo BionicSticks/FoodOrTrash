@@ -59,8 +59,36 @@ export default function Home() {
         <FoodChecker />
       </motion.div>
 
+      {/* Ad slot — below verdict area */}
+      <div className="w-full max-w-xl mx-auto mt-12 px-4">
+        <div
+          id="ad-container"
+          className="min-h-[90px] flex items-center justify-center border border-border/10"
+        >
+          {/*
+            AdSense placeholder — replace with your ad unit:
+            <ins className="adsbygoogle"
+              style={{ display: "block" }}
+              data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+              data-ad-slot="XXXXXXXXXX"
+              data-ad-format="auto"
+              data-full-width-responsive="true" />
+          */}
+          <span className="text-[9px] text-muted/20 uppercase tracking-[0.2em]">ad</span>
+        </div>
+      </div>
+
       {/* Footer */}
-      <footer className="mt-auto pt-20 pb-8 text-center">
+      <footer className="mt-auto pt-20 pb-8 text-center space-y-4">
+        {/* Ko-fi */}
+        <a
+          href="https://ko-fi.com/YOUR_KOFI_USERNAME"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block px-5 py-2 text-[10px] font-body text-muted/40 uppercase tracking-[0.25em] border border-border hover:border-bone/20 hover:text-muted transition-all"
+        >
+          Support this project
+        </a>
         <p className="text-[10px] text-muted/30 font-body uppercase tracking-[0.3em]">
           foodortrash.com &mdash; no seed oils &middot; no bias &middot; just
           truth

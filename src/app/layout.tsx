@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   description:
     "AIs and dieticians are trained on biased information. Get a real answer about whether something is food or trash.",
   metadataBase: new URL("https://foodortrash.com"),
+  icons: {
+    icon: "/branding/favicon.ico",
+  },
   openGraph: {
     title: "FOOD OR TRASH",
     description:
@@ -45,6 +48,16 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        {/*
+          AdSense script placeholder — uncomment and add your publisher ID:
+          <script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
+            crossOrigin="anonymous"
+          />
+        */}
+      </head>
       <body className={`${inter.variable} antialiased`}>{children}</body>
     </html>
   );
