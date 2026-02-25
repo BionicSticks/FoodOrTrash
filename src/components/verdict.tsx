@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { AnyResult, CompositeLookupResult, ComponentResult } from "@/lib/foods";
 import { isCompositeResult } from "@/lib/foods";
@@ -61,6 +62,116 @@ function ComponentRow({
           AI
         </span>
       )}
+    </motion.div>
+  );
+}
+
+interface RecipeSuggestionData {
+  name: string;
+  ingredients: string[];
+  description: string;
+}
+
+function RecipeSuggestion({
+  query,
+  verdict,
+  score,
+}: {
+  query: string;
+  verdict: "food" | "trash";
+  score: number;
+}) {
+  const [recipe, setRecipe] = useState<RecipeSuggestionData | null>(null);
+  const [loading, setLoading] = useState(false);
+  const [requested, setRequested] = useState(false);
+
+  const handleSuggest = async () => {
+    setLoading(true);
+    setRequested(true);
+    try {
+      const res = await fetch("/api/suggest-recipe", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ item: query, verdict, score }),
+      });
+      const data = await res.json();
+      setRecipe(data);
+    } catch {
+      setRecipe({
+        name: "Couldn't fetch a recipe",
+        ingredients: [],
+        description: "Something went wrong. Try again.",
+      });
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  if (!requested) {
+    return (
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.8 }}
+        className="mt-6 flex justify-center"
+      >
+        <button
+          onClick={handleSuggest}
+          className="px-6 py-3 text-[10px] font-body uppercase tracking-[0.25em] text-bone/60 border border-border hover:border-bone/30 hover:text-bone transition-all"
+        >
+          Suggest a recipe
+        </button>
+      </motion.div>
+    );
+  }
+
+  if (loading) {
+    return (
+      <motion.p
+        initial={{ opacity: 0 }}
+        animate={{ opacity: [0.3, 1, 0.3] }}
+        transition={{ repeat: Infinity, duration: 1.5 }}
+        className="text-center text-muted/50 mt-6 text-xs font-body uppercase tracking-[0.2em]"
+      >
+        Cooking up ideas...
+      </motion.p>
+    );
+  }
+
+  if (!recipe) return null;
+
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 15 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5 }}
+      className="mt-6 border border-food-green/20 bg-food-green-dim"
+    >
+      <div className="px-5 py-3 border-b border-food-green/10">
+        <p className="text-[10px] text-food-green font-semibold uppercase tracking-[0.25em]">
+          Suggested recipe
+        </p>
+      </div>
+      <div className="p-5">
+        <h3 className="text-sm text-bone font-heading font-bold uppercase tracking-[0.1em]">
+          {recipe.name}
+        </h3>
+        {recipe.ingredients.length > 0 && (
+          <div className="mt-3 flex flex-wrap gap-2">
+            {recipe.ingredients.map((ing, i) => (
+              <span
+                key={i}
+                className="px-3 py-1 text-[10px] text-bone/70 uppercase tracking-[0.15em] border border-border bg-surface"
+              >
+                {ing}
+              </span>
+            ))}
+          </div>
+        )}
+        <p className="mt-4 text-xs text-muted leading-relaxed">
+          {recipe.description}
+        </p>
+      </div>
     </motion.div>
   );
 }
@@ -152,6 +263,12 @@ function CompositeVerdict({ result }: { result: CompositeLookupResult }) {
         </motion.div>
 
         <ScoreMeter score={result.compositeScore} />
+
+        <RecipeSuggestion
+          query={result.query}
+          verdict={result.compositeVerdict}
+          score={result.compositeScore}
+        />
       </motion.div>
     </AnimatePresence>
   );
@@ -324,6 +441,12 @@ export function Verdict({ result, query }: VerdictProps) {
 
         {/* Score meter — outside the verdict card */}
         <ScoreMeter score={result.score} />
+
+        <RecipeSuggestion
+          query={query}
+          verdict={isFood ? "food" : "trash"}
+          score={result.score}
+        />
       </motion.div>
     </AnimatePresence>
   );
