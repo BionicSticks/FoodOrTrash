@@ -1,11 +1,25 @@
 "use client";
 
+import { useEffect } from "react";
 import { motion } from "framer-motion";
 import Image from "next/image";
 import { FoodChecker } from "@/components/food-checker";
 import { Background } from "@/components/background";
 
+declare global {
+  interface Window {
+    adsbygoogle: unknown[];
+  }
+}
+
 export default function Home() {
+  useEffect(() => {
+    try {
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    } catch {
+      // AdSense not loaded
+    }
+  }, []);
   return (
     <>
       <Background />
@@ -81,16 +95,14 @@ export default function Home() {
           id="ad-container"
           className="min-h-[90px] flex items-center justify-center border border-border/10"
         >
-          {/*
-            AdSense placeholder — replace with your ad unit:
-            <ins className="adsbygoogle"
-              style={{ display: "block" }}
-              data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-              data-ad-slot="XXXXXXXXXX"
-              data-ad-format="auto"
-              data-full-width-responsive="true" />
-          */}
-          <span className="text-[9px] text-muted/20 uppercase tracking-[0.2em]">ad</span>
+          <ins
+            className="adsbygoogle"
+            style={{ display: "block" }}
+            data-ad-client="ca-pub-9703427126849282"
+            data-ad-slot="4494584940"
+            data-ad-format="auto"
+            data-full-width-responsive="true"
+          />
         </div>
       </div>
 
