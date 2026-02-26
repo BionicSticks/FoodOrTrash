@@ -76,7 +76,7 @@ export const CHAPTERS: Chapter[] = [
       },
       {
         title: "What I've Learnt — What the Food Pyramid Got Wrong",
-        url: "https://www.youtube.com/watch?v=yWNIjOaYfBo",
+        url: "https://www.youtube.com/watch?v=SOgH9LDwBzY",
         type: "video",
       },
       {
