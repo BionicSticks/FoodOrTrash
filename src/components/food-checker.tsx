@@ -287,13 +287,13 @@ export function FoodChecker() {
     <div className="w-full max-w-xl mx-auto px-4">
       {/* Input form */}
       <form onSubmit={handleSubmit}>
-        <div className="flex gap-3">
+        <div className="flex gap-2 sm:gap-3">
           <input
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="TYPE ANYTHING..."
-            className="flex-1 px-6 py-4 rounded-none bg-surface border border-border text-bone text-base sm:text-lg font-body uppercase tracking-[0.1em] placeholder:text-muted/30 placeholder:uppercase focus:outline-none focus:border-bone/30 transition-colors"
+            className="flex-1 min-w-0 px-3 sm:px-6 py-4 rounded-none bg-surface border border-border text-bone text-base sm:text-lg font-body uppercase tracking-[0.1em] placeholder:text-muted/30 placeholder:uppercase focus:outline-none focus:border-bone/30 transition-colors"
             disabled={loading}
             autoFocus
           />
@@ -305,7 +305,7 @@ export function FoodChecker() {
             disabled={loading}
             whileHover={{ scale: 1.02 }}
             whileTap={{ scale: 0.98 }}
-            className="px-4 py-4 rounded-none bg-surface border border-border text-muted hover:text-bone hover:border-bone/30 disabled:opacity-20 disabled:cursor-not-allowed transition-all"
+            className="px-3 sm:px-4 py-4 rounded-none bg-surface border border-border text-muted hover:text-bone hover:border-bone/30 disabled:opacity-20 disabled:cursor-not-allowed transition-all flex-shrink-0"
             title="Upload a photo"
           >
             <svg
@@ -337,7 +337,7 @@ export function FoodChecker() {
             disabled={loading || !query.trim()}
             whileHover={{ scale: 1.02 }}
             whileTap={{ scale: 0.98 }}
-            className="px-8 py-4 rounded-none bg-bone text-void font-heading font-bold text-base uppercase tracking-[0.15em] disabled:opacity-20 disabled:cursor-not-allowed transition-all hover:bg-bone/90"
+            className="px-4 sm:px-8 py-4 rounded-none bg-bone text-void font-heading font-bold text-base uppercase tracking-[0.15em] disabled:opacity-20 disabled:cursor-not-allowed transition-all hover:bg-bone/90 flex-shrink-0"
           >
             {loading ? (
               <motion.span
