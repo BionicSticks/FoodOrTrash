@@ -34,7 +34,7 @@ export default function Home() {
         <div className="flex items-center gap-5">
           <a
             href="/learn"
-            className="text-sm text-bone/90 font-body font-semibold uppercase tracking-[0.15em] hover:text-bone transition-colors"
+            className="text-sm text-bone font-body font-semibold uppercase tracking-[0.15em] hover:text-bone transition-colors"
           >
             How we got here
           </a>
@@ -75,7 +75,7 @@ export default function Home() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.4, duration: 0.6 }}
-          className="mt-4 text-sm sm:text-base text-bone/80 font-body max-w-lg mx-auto leading-relaxed uppercase tracking-[0.15em]"
+          className="mt-4 text-sm sm:text-base text-bone font-body max-w-lg mx-auto leading-relaxed uppercase tracking-[0.15em]"
         >
           Whole foods are food &middot; Seed oils are trash &middot; Processed is not food
         </motion.p>
@@ -98,7 +98,7 @@ export default function Home() {
         transition={{ delay: 0.6, duration: 0.6 }}
         className="w-full max-w-3xl mx-auto mt-20 px-4"
       >
-        <h2 className="text-[10px] text-muted/50 uppercase tracking-[0.25em] text-center mb-8">
+        <h2 className="text-[10px] text-bone uppercase tracking-[0.25em] text-center mb-8">
           How it works
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
@@ -107,7 +107,7 @@ export default function Home() {
             <p className="text-[10px] text-bone uppercase tracking-[0.15em] font-bold mb-2">
               Search
             </p>
-            <p className="text-xs text-muted leading-relaxed">
+            <p className="text-xs text-bone leading-relaxed">
               Type any food, ingredient, or product into the search bar above
             </p>
           </div>
@@ -116,7 +116,7 @@ export default function Home() {
             <p className="text-[10px] text-bone uppercase tracking-[0.15em] font-bold mb-2">
               Score
             </p>
-            <p className="text-xs text-muted leading-relaxed">
+            <p className="text-xs text-bone leading-relaxed">
               Get an instant 0–100 rating based on whole food principles, not industry guidelines
             </p>
           </div>
@@ -125,7 +125,7 @@ export default function Home() {
             <p className="text-[10px] text-bone uppercase tracking-[0.15em] font-bold mb-2">
               Learn
             </p>
-            <p className="text-xs text-muted leading-relaxed">
+            <p className="text-xs text-bone leading-relaxed">
               Read why it scored that way, discover swaps, and explore our deep-dive articles
             </p>
           </div>
@@ -140,10 +140,10 @@ export default function Home() {
         className="w-full max-w-2xl mx-auto mt-16 px-4"
       >
         <div className="p-8 border border-border">
-          <h2 className="text-[10px] text-muted/50 uppercase tracking-[0.25em] mb-4">
+          <h2 className="text-[10px] text-bone uppercase tracking-[0.25em] mb-4">
             Why this exists
           </h2>
-          <p className="text-sm text-bone/80 leading-relaxed font-body">
+          <p className="text-sm text-bone leading-relaxed font-body">
             Mainstream nutrition advice has been shaped by decades of food
             industry lobbying and flawed science. The USDA food pyramid
             told a generation to eat 6–11 servings of grains while demonising
@@ -154,13 +154,13 @@ export default function Home() {
           <div className="mt-4 flex flex-wrap gap-4">
             <Link
               href="/about"
-              className="text-[10px] text-muted/60 uppercase tracking-[0.2em] underline underline-offset-2 hover:text-bone transition-colors"
+              className="text-[10px] text-bone uppercase tracking-[0.2em] underline underline-offset-2 hover:text-bone transition-colors"
             >
               Our methodology
             </Link>
             <Link
               href="/learn"
-              className="text-[10px] text-muted/60 uppercase tracking-[0.2em] underline underline-offset-2 hover:text-bone transition-colors"
+              className="text-[10px] text-bone uppercase tracking-[0.2em] underline underline-offset-2 hover:text-bone transition-colors"
             >
               The full story
             </Link>
@@ -178,26 +178,26 @@ export default function Home() {
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 text-center">
           <div className="p-4 border border-border">
             <p className="text-lg font-heading font-bold text-bone">1,345</p>
-            <p className="text-[10px] text-muted/50 uppercase tracking-[0.15em] mt-1">
+            <p className="text-[10px] text-bone uppercase tracking-[0.15em] mt-1">
               Foods rated
             </p>
           </div>
           <div className="p-4 border border-border">
             <p className="text-lg font-heading font-bold text-food-green">1,159</p>
-            <p className="text-[10px] text-muted/50 uppercase tracking-[0.15em] mt-1">
+            <p className="text-[10px] text-bone uppercase tracking-[0.15em] mt-1">
               Real foods
             </p>
           </div>
           <div className="p-4 border border-border">
             <p className="text-lg font-heading font-bold text-trash-red">186</p>
-            <p className="text-[10px] text-muted/50 uppercase tracking-[0.15em] mt-1">
+            <p className="text-[10px] text-bone uppercase tracking-[0.15em] mt-1">
               Trash items
             </p>
           </div>
           <div className="p-4 border border-border">
             <p className="text-lg font-heading font-bold text-bone">6</p>
-            <p className="text-[10px] text-muted/50 uppercase tracking-[0.15em] mt-1">
-              <Link href="/learn" className="hover:text-bone/80 transition-colors">Deep-dive articles</Link>
+            <p className="text-[10px] text-bone uppercase tracking-[0.15em] mt-1">
+              <Link href="/learn" className="hover:text-bone transition-colors">Deep-dive articles</Link>
             </p>
           </div>
         </div>
@@ -212,13 +212,13 @@ export default function Home() {
       >
         <Link
           href="/category"
-          className="px-5 py-3 text-[10px] font-body font-semibold uppercase tracking-[0.2em] text-bone/60 border border-border hover:border-bone/30 hover:text-bone transition-all"
+          className="px-5 py-3 text-[10px] font-body font-semibold uppercase tracking-[0.2em] text-bone border border-bone/20 hover:border-bone/40 hover:text-bone transition-all"
         >
           Browse all categories
         </Link>
         <Link
           href="/learn"
-          className="px-5 py-3 text-[10px] font-body font-semibold uppercase tracking-[0.2em] text-bone/60 border border-border hover:border-bone/30 hover:text-bone transition-all"
+          className="px-5 py-3 text-[10px] font-body font-semibold uppercase tracking-[0.2em] text-bone border border-bone/20 hover:border-bone/40 hover:text-bone transition-all"
         >
           How we got here
         </Link>

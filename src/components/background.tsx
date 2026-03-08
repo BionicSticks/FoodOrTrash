@@ -57,8 +57,8 @@ export function Background() {
         </motion.div>
       </AnimatePresence>
 
-      {/* Dark gradient overlay for text readability */}
-      <div className="absolute inset-0 bg-gradient-to-b from-void/60 via-transparent to-void/80 pointer-events-none" />
+      {/* Dark overlay for text readability */}
+      <div className="absolute inset-0 bg-void/60 pointer-events-none" />
 
       {/* Grain texture */}
       <div

@@ -15,25 +15,25 @@ export function SiteFooter() {
       <nav className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
         <Link
           href="/about"
-          className="text-[10px] text-muted/40 uppercase tracking-[0.2em] hover:text-bone/60 transition-colors"
+          className="text-[10px] text-bone/50 uppercase tracking-[0.2em] hover:text-bone transition-colors"
         >
           About
         </Link>
         <Link
           href="/contact"
-          className="text-[10px] text-muted/40 uppercase tracking-[0.2em] hover:text-bone/60 transition-colors"
+          className="text-[10px] text-bone/50 uppercase tracking-[0.2em] hover:text-bone transition-colors"
         >
           Contact
         </Link>
         <Link
           href="/privacy"
-          className="text-[10px] text-muted/40 uppercase tracking-[0.2em] hover:text-bone/60 transition-colors"
+          className="text-[10px] text-bone/50 uppercase tracking-[0.2em] hover:text-bone transition-colors"
         >
           Privacy
         </Link>
         <Link
           href="/terms"
-          className="text-[10px] text-muted/40 uppercase tracking-[0.2em] hover:text-bone/60 transition-colors"
+          className="text-[10px] text-bone/50 uppercase tracking-[0.2em] hover:text-bone transition-colors"
         >
           Terms
         </Link>
