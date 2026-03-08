@@ -40,6 +40,10 @@ export async function generateMetadata({
   return {
     title: `${label} — ${items.length} Items | Food or Trash`,
     description: `Browse all ${items.length} ${label.toLowerCase()} items rated by Food or Trash.`,
+    robots: {
+      index: false,
+      follow: true,
+    },
   };
 }
 

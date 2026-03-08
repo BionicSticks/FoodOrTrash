@@ -3,8 +3,10 @@
 import { useEffect } from "react";
 import { motion } from "framer-motion";
 import Image from "next/image";
+import Link from "next/link";
 import { FoodChecker } from "@/components/food-checker";
 import { Background } from "@/components/background";
+import { SiteFooter } from "@/components/site-footer";
 
 declare global {
   interface Window {
@@ -89,7 +91,140 @@ export default function Home() {
         <FoodChecker />
       </motion.div>
 
-      {/* Ad slot — below verdict area */}
+      {/* How it works */}
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.6, duration: 0.6 }}
+        className="w-full max-w-3xl mx-auto mt-20 px-4"
+      >
+        <h2 className="text-[10px] text-muted/50 uppercase tracking-[0.25em] text-center mb-8">
+          How it works
+        </h2>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          <div className="p-6 border border-border text-center">
+            <p className="text-2xl font-heading font-bold text-bone mb-2">1</p>
+            <p className="text-[10px] text-bone uppercase tracking-[0.15em] font-bold mb-2">
+              Search
+            </p>
+            <p className="text-xs text-muted leading-relaxed">
+              Type any food, ingredient, or product into the search bar above
+            </p>
+          </div>
+          <div className="p-6 border border-border text-center">
+            <p className="text-2xl font-heading font-bold text-bone mb-2">2</p>
+            <p className="text-[10px] text-bone uppercase tracking-[0.15em] font-bold mb-2">
+              Score
+            </p>
+            <p className="text-xs text-muted leading-relaxed">
+              Get an instant 0–100 rating based on whole food principles, not industry guidelines
+            </p>
+          </div>
+          <div className="p-6 border border-border text-center">
+            <p className="text-2xl font-heading font-bold text-bone mb-2">3</p>
+            <p className="text-[10px] text-bone uppercase tracking-[0.15em] font-bold mb-2">
+              Learn
+            </p>
+            <p className="text-xs text-muted leading-relaxed">
+              Read why it scored that way, discover swaps, and explore our deep-dive articles
+            </p>
+          </div>
+        </div>
+      </motion.div>
+
+      {/* What we believe */}
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.8, duration: 0.6 }}
+        className="w-full max-w-2xl mx-auto mt-16 px-4"
+      >
+        <div className="p-8 border border-border">
+          <h2 className="text-[10px] text-muted/50 uppercase tracking-[0.25em] mb-4">
+            Why this exists
+          </h2>
+          <p className="text-sm text-bone/80 leading-relaxed font-body">
+            Mainstream nutrition advice has been shaped by decades of food
+            industry lobbying and flawed science. The USDA food pyramid
+            told a generation to eat 6–11 servings of grains while demonising
+            natural fats. Most AI tools and nutrition apps are trained on this
+            same biased data. Food or Trash starts from first principles: what
+            have humans eaten for thousands of years? That&apos;s your baseline.
+          </p>
+          <div className="mt-4 flex flex-wrap gap-4">
+            <Link
+              href="/about"
+              className="text-[10px] text-muted/60 uppercase tracking-[0.2em] underline underline-offset-2 hover:text-bone transition-colors"
+            >
+              Our methodology
+            </Link>
+            <Link
+              href="/learn"
+              className="text-[10px] text-muted/60 uppercase tracking-[0.2em] underline underline-offset-2 hover:text-bone transition-colors"
+            >
+              The full story
+            </Link>
+          </div>
+        </div>
+      </motion.div>
+
+      {/* Stats */}
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 1.0, duration: 0.6 }}
+        className="w-full max-w-3xl mx-auto mt-12 px-4"
+      >
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 text-center">
+          <div className="p-4 border border-border">
+            <p className="text-lg font-heading font-bold text-bone">1,345</p>
+            <p className="text-[10px] text-muted/50 uppercase tracking-[0.15em] mt-1">
+              Foods rated
+            </p>
+          </div>
+          <div className="p-4 border border-border">
+            <p className="text-lg font-heading font-bold text-food-green">1,159</p>
+            <p className="text-[10px] text-muted/50 uppercase tracking-[0.15em] mt-1">
+              Real foods
+            </p>
+          </div>
+          <div className="p-4 border border-border">
+            <p className="text-lg font-heading font-bold text-trash-red">186</p>
+            <p className="text-[10px] text-muted/50 uppercase tracking-[0.15em] mt-1">
+              Trash items
+            </p>
+          </div>
+          <div className="p-4 border border-border">
+            <p className="text-lg font-heading font-bold text-bone">6</p>
+            <p className="text-[10px] text-muted/50 uppercase tracking-[0.15em] mt-1">
+              <Link href="/learn" className="hover:text-bone/80 transition-colors">Deep-dive articles</Link>
+            </p>
+          </div>
+        </div>
+      </motion.div>
+
+      {/* Browse links */}
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 1.1, duration: 0.6 }}
+        className="w-full max-w-xl mx-auto mt-12 px-4 flex flex-wrap justify-center gap-4"
+      >
+        <Link
+          href="/category"
+          className="px-5 py-3 text-[10px] font-body font-semibold uppercase tracking-[0.2em] text-bone/60 border border-border hover:border-bone/30 hover:text-bone transition-all"
+        >
+          Browse all categories
+        </Link>
+        <Link
+          href="/learn"
+          className="px-5 py-3 text-[10px] font-body font-semibold uppercase tracking-[0.2em] text-bone/60 border border-border hover:border-bone/30 hover:text-bone transition-all"
+        >
+          How we got here
+        </Link>
+      </motion.div>
+
+      {/* Ad slot — below content */}
       <div className="w-full max-w-xl mx-auto mt-12 px-4">
         <div
           id="ad-container"
@@ -106,21 +241,7 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Footer */}
-      <footer className="mt-auto pt-20 pb-8 text-center space-y-4">
-        <a
-          href="https://ko-fi.com/foodortrash"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-block px-6 py-3 text-xs font-body font-semibold uppercase tracking-[0.2em] text-bone/70 border border-border hover:border-bone/30 hover:text-bone transition-all"
-        >
-          Support this project
-        </a>
-        <p className="text-xs text-muted/50 font-body uppercase tracking-[0.3em]">
-          foodortrash.com &mdash; no seed oils &middot; no bias &middot; just
-          truth
-        </p>
-      </footer>
+      <SiteFooter />
     </main>
     </>
   );
